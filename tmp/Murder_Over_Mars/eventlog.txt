@@ -1,0 +1,1515 @@
+[00:00] Generated persons: 7
+[00:00] Generated places: 8
+[00:00] Generated things: 40
+[00:00] Starting Decentralized Multi-Agent Simulation Loop
+[00:00] 
+[Time Step: 1 - 00:00 - 00:15]
+[00:00] 
+[1.1, The Stakeholders' Salon | Suspense: 1.0/10]
+[00:00] Felix Drummond executed TALK
+[Memory] Felix Drummond learned: Felix mentions that he has been following the quarterly reports closely and is concerned about the mining consortium's financial health. (Location: The Stakeholders' Salon)
+[00:00] Margaret Ashworth executed TALK
+[Memory] Felix Drummond learned: Felix mentions that he has been following the quarterly reports closely and is concerned about the mining consortium's financial health. (Location: The Stakeholders' Salon)
+[1.1 completed]
+[00:00] 
+[1.2, The Captain's Study | Suspense: 1.0/10]
+[00:00] Captain Theron Blackwood executed SEARCH
+[Memory] Captain Theron Blackwood learned: The glass of brandy contains a trace of aconite, a deadly poison. (Location: The Captain's Study)
+[00:00] Captain Theron Blackwood searched and FOUND The Captain's private journal, its last entry reading 'I will not sign the extension'! (Details: Thoroughly examining the room for any clues or hidden items.)
+[Memory] Captain Theron Blackwood learned: The glass of brandy contains a trace of aconite, a deadly poison. (Location: The Captain's Study)
+[1.2 completed]
+[00:00] 
+[1.3, The Hydroponic Conservatory | Suspense: 1.0/10]
+[00:00] Dr. Yuki Tanaka executed SEARCH
+[Memory] Dr. Yuki Tanaka learned: The pruning shears appear to have recently been used, with chlorophyll and what seems to be blood on the blades. (Location: The Hydroponic Conservatory)
+[00:00] Dr. Yuki Tanaka searched and FOUND A botanist's field notes, one page torn out, the remaining pages listing a compound called nightshade extract! (Details: Thoroughly examine the Hydroponic Conservatory for any clues or hidden items.)
+[00:00] Dr. Yuki Tanaka searched and DISCOVERED the hidden item: A droplet of blood on the fountain's rim, partially dissolved in the trickling water!
+[00:00] Dr. Yuki Tanaka searched and DISCOVERED the hidden item: A section of engineered soil disturbed, bearing a faint impression of a shoe sole!
+[Memory] Dr. Yuki Tanaka learned: The pruning shears appear to have recently been used, with chlorophyll and what seems to be blood on the blades. (Location: The Hydroponic Conservatory)
+[1.3 completed]
+[00:00] 
+[1.4, The Mining Archive | Suspense: 1.0/10]
+[00:00]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 1.0/10.0 | Urgency: PLANNING | Target: Margaret Ashworth (Elsewhere) | World introduction pacing. Establish social cover, study the layout, do not strike yet.
+[00:00] Dr. Cassius Wren executed SEARCH
+[00:00] Dr. Cassius Wren searched and FOUND A financial projection notebook with a column of numbers that do not add up! (Details: Examining the filing cabinets and desk for any clues or items that might be of interest.)
+[00:00] Dr. Cassius Wren searched and DISCOVERED the hidden item: A single oxidised iron sample, its label peeled off, pinned to a display board out of sequence!
+[1.4 completed]
+[00:00] 
+[1.5, The Spoke Gallery | Suspense: 1.0/10]
+[00:00] Sera Okafor executed SEARCH
+[Memory] Sera Okafor learned: The scuff mark and broken porthole suggest a struggle or a hurried exit. (Location: The Spoke Gallery)
+[00:00] Sera Okafor searched and DISCOVERED the hidden item: A silk handkerchief, monogrammed with the initials E.V., tucked into a porthole frame!
+[00:00] Sera Okafor searched and DISCOVERED the hidden item: A faint drag mark in the dust along the gallery's full length, leading from the Rotunda toward the rim!
+[Memory] Sera Okafor learned: The scuff mark and broken porthole suggest a struggle or a hurried exit. (Location: The Spoke Gallery)
+[1.5 completed]
+[00:15] 
+[Time Step: 2 - 00:15 - 00:30]
+[Dramaturgic Event] Initial Gathering & Arrival - Everyone convenes in The Grand Rotunda as the story begins, exchanging greetings and observing their surroundings.
+[00:15] 
+[2.1, The Stakeholders' Salon | Suspense: 1.0/10]
+[00:15] Margaret Ashworth executed TALK
+[00:15] Felix Drummond executed TALK
+[2.1 completed]
+[00:15] 
+[2.2, The Captain's Study | Suspense: 1.0/10]
+[00:15] Captain Theron Blackwood executed MOVE
+[2.2 completed]
+[00:15] 
+[2.3, The Hydroponic Conservatory | Suspense: 1.0/10]
+[00:15] Dr. Yuki Tanaka executed MOVE
+[2.3 completed]
+[00:15] 
+[2.4, The Mining Archive | Suspense: 1.0/10]
+[00:15]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 1.0/10.0 | Urgency: PLANNING | Target: Margaret Ashworth (Elsewhere) | World introduction pacing. Establish social cover, study the layout, do not strike yet.
+[00:15] Dr. Cassius Wren executed MOVE
+[2.4 completed]
+[00:15] 
+[2.5, The Spoke Gallery | Suspense: 1.0/10]
+[00:15] Sera Okafor executed MOVE
+[2.5 completed]
+[00:30] 
+[Time Step: 3 - 00:30 - 00:45]
+[00:30] 
+[3.1, The Grand Rotunda | Suspense: 1.0/10]
+[00:30] Captain Theron Blackwood executed TALK
+[00:30] Sera Okafor executed TALK
+[Memory] Sera Okafor learned: Seems uneasy, shifting uncomfortably in his seat. Dr. Tanaka appears distracted, her gaze frequently drifting towards the broken porthole. (Location: The Grand Rotunda)
+[00:30] Dr. Yuki Tanaka executed TALK
+[Memory] Dr. Yuki Tanaka learned: Seems visibly shaken and avoids eye contact, while Sera Okafor is calm and composed, offering condolences. (Location: The Grand Rotunda)
+[Memory] Sera Okafor learned: Seems uneasy, shifting uncomfortably in his seat. Dr. Tanaka appears distracted, her gaze frequently drifting towards the broken porthole. (Location: The Grand Rotunda)
+[Memory] Dr. Yuki Tanaka learned: Seems visibly shaken and avoids eye contact, while Sera Okafor is calm and composed, offering condolences. (Location: The Grand Rotunda)
+[3.1 completed]
+[00:30] 
+[3.2, The Stakeholders' Salon | Suspense: 1.0/10]
+[00:30] Margaret Ashworth executed TALK
+[Memory] Margaret Ashworth learned: Felix Drummond seems overly anxious and may be hiding something. (Location: The Stakeholders' Salon)
+[00:30] Felix Drummond executed TALK
+[Memory] Margaret Ashworth learned: Felix Drummond seems overly anxious and may be hiding something. (Location: The Stakeholders' Salon)
+[3.2 completed]
+[00:30] 
+[3.3, The Captain's Study | Suspense: 1.0/10]
+[00:30]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 1.0/10.0 | Urgency: PLANNING | Target: Margaret Ashworth (Elsewhere) | World introduction pacing. Establish social cover, study the layout, do not strike yet.
+[00:30] Dr. Cassius Wren executed SEARCH
+[Memory] Dr. Cassius Wren learned: The locked drawer in the Captain's Study is of particular interest, as it may contain important documents. (Location: The Captain's Study)
+[00:30] Dr. Cassius Wren searched the room. Details: Examining the room for any clues or items of interest.
+[Memory] Dr. Cassius Wren learned: The locked drawer in the Captain's Study is of particular interest, as it may contain important documents. (Location: The Captain's Study)
+[3.3 completed]
+[00:45] 
+[Time Step: 4 - 00:45 - 01:00]
+[00:45] 
+[4.1, The Grand Rotunda | Suspense: 1.0/10]
+[00:45] Sera Okafor executed TALK
+[00:45] Dr. Yuki Tanaka executed TALK
+[00:45] Captain Theron Blackwood executed TALK
+[4.1 completed]
+[00:45] 
+[4.2, The Stakeholders' Salon | Suspense: 1.0/10]
+[00:45] Margaret Ashworth executed TALK
+[00:45] Felix Drummond executed MOVE
+[4.2 completed]
+[00:45] 
+[4.3, The Captain's Study | Suspense: 1.0/10]
+[00:45]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 1.0/10.0 | Urgency: PLANNING | Target: Margaret Ashworth (Elsewhere) | World introduction pacing. Establish social cover, study the layout, do not strike yet.
+[00:45] Dr. Cassius Wren executed OBSERVE
+[Memory] Dr. Cassius Wren learned: The locked drawer in the Captain's Study is of particular interest. (Location: The Captain's Study)
+[00:45] Dr. Cassius Wren observe: Dr. Cassius Wren carefully examines the room, noting the locked drawer and the glass of brandy. He observes the atmosphere of the study, feeling a sense of isolation and the potential for danger.
+[Memory] Dr. Cassius Wren learned: The locked drawer in the Captain's Study is of particular interest. (Location: The Captain's Study)
+[4.3 completed]
+[01:00] 
+[Time Step: 5 - 01:00 - 01:15]
+[01:00] 
+[5.1, The Grand Rotunda | Suspense: 1.0/10]
+[01:00] Felix Drummond executed TALK
+[01:00] Captain Theron Blackwood executed MOVE
+[01:00] Dr. Yuki Tanaka executed TALK
+[01:00] Sera Okafor executed TALK
+[Memory] Sera Okafor learned: Seems distracted and possibly hiding something related to the nightshade extract. (Location: The Grand Rotunda)
+[Memory] Sera Okafor learned: Seems distracted and possibly hiding something related to the nightshade extract. (Location: The Grand Rotunda)
+[5.1 completed]
+[01:00] 
+[5.2, The Stakeholders' Salon | Suspense: 1.0/10]
+[01:00] Margaret Ashworth executed MOVE
+[5.2 completed]
+[01:00] 
+[5.3, The Captain's Study | Suspense: 1.0/10]
+[01:00]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 1.0/10.0 | Urgency: PLANNING | Target: Margaret Ashworth (Elsewhere) | World introduction pacing. Establish social cover, study the layout, do not strike yet.
+[01:00] Dr. Cassius Wren executed SEARCH
+[01:00] Dr. Cassius Wren searched the room. Details: Examining the Captain's Study for any overlooked clues or items of interest.
+[5.3 completed]
+[01:15] 
+[Time Step: 6 - 01:15 - 01:30]
+[01:15] 
+[6.1, The Grand Rotunda | Suspense: 1.0/10]
+[01:15] Sera Okafor executed TALK
+[01:15] Margaret Ashworth executed TALK
+[01:15] Felix Drummond executed TALK
+[01:15] Dr. Yuki Tanaka executed TALK
+[Memory] Dr. Yuki Tanaka learned: Margaret Ashworth and Felix Drummond seem visibly shaken and avoid eye contact, suggesting they might be involved in the victim's death. (Location: The Grand Rotunda)
+[Memory] Dr. Yuki Tanaka learned: Margaret Ashworth and Felix Drummond seem visibly shaken and avoid eye contact, suggesting they might be involved in the victim's death. (Location: The Grand Rotunda)
+[6.1 completed]
+[01:15] 
+[6.2, The Observatorium | Suspense: 1.0/10]
+[01:15] Captain Theron Blackwood executed SEARCH
+[01:15] Captain Theron Blackwood searched and DISCOVERED the hidden item: A torn scrap of wine-dark velvet matching the drapes, carrying a faint perfume residue!
+[01:15] Captain Theron Blackwood searched and DISCOVERED the hidden item: A smudged fingerprint on the crystal dome, belonging to no one on the crew roster!
+[6.2 completed]
+[01:15] 
+[6.3, The Captain's Study | Suspense: 1.0/10]
+[01:15]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 1.0/10.0 | Urgency: PLANNING | Target: Margaret Ashworth (Elsewhere) | World introduction pacing. Establish social cover, study the layout, do not strike yet.
+[01:15] Dr. Cassius Wren executed MOVE
+[6.3 completed]
+[01:30] 
+[Time Step: 7 - 01:30 - 01:45]
+[01:30] 
+[7.1, The Grand Rotunda | Suspense: 3.5/10]
+[01:30]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 3.5/10.0 | Urgency: ESCALATING | Target: Margaret Ashworth (IN ROOM) | Escalating tension. Track down Margaret Ashworth, prepare weapons or covert poison, and isolate them.
+[01:30] Dr. Cassius Wren executed TALK
+[01:30] Margaret Ashworth executed TALK
+[Memory] Margaret Ashworth learned: Seems cautious and possibly aware of the financial issues, but I need to tread carefully. (Location: The Grand Rotunda)
+[01:30] Felix Drummond executed TALK
+[Memory] Felix Drummond learned: Sera Okafor suggests that the recent fluctuations could be due to external factors, such as supply chain disruptions or changes in demand for Martian minerals. (Location: The Grand Rotunda)
+[01:30] Sera Okafor executed MOVE
+[01:30] Dr. Yuki Tanaka executed MOVE
+[Memory] Margaret Ashworth learned: Seems cautious and possibly aware of the financial issues, but I need to tread carefully. (Location: The Grand Rotunda)
+[Memory] Felix Drummond learned: Sera Okafor suggests that the recent fluctuations could be due to external factors, such as supply chain disruptions or changes in demand for Martian minerals. (Location: The Grand Rotunda)
+[7.1 completed]
+[01:30] 
+[7.2, The Observatorium | Suspense: 1.0/10]
+[01:30] Captain Theron Blackwood executed TALK
+[7.2 completed]
+[01:45] 
+[Time Step: 8 - 01:45 - 02:00]
+[01:45] 
+[8.1, The Grand Rotunda | Suspense: 3.5/10]
+[01:45]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 3.5/10.0 | Urgency: ESCALATING | Target: Margaret Ashworth (IN ROOM) | Escalating tension. Track down Margaret Ashworth, prepare weapons or covert poison, and isolate them.
+[01:45] Dr. Cassius Wren executed TALK
+[01:45] Margaret Ashworth executed MOVE
+[01:45] Felix Drummond executed MOVE
+[8.1 completed]
+[01:45] 
+[8.2, The Observatorium | Suspense: 1.0/10]
+[01:45] Sera Okafor executed TALK
+[Memory] Sera Okafor learned: 's response is evasive, but his eyes flicker with a hint of guilt. (Location: The Observatorium)
+[01:45] Captain Theron Blackwood executed TALK
+[Memory] Sera Okafor learned: 's response is evasive, but his eyes flicker with a hint of guilt. (Location: The Observatorium)
+[8.2 completed]
+[01:45] 
+[8.3, The Hydroponic Conservatory | Suspense: 1.0/10]
+[01:45] Dr. Yuki Tanaka executed SEARCH
+[Memory] Dr. Yuki Tanaka learned: The blood on the fountain is a match for the victim's blood type, suggesting the crime occurred here. (Location: The Hydroponic Conservatory)
+[01:45] Dr. Yuki Tanaka searched the room. Details: Dr. Yuki Tanaka carefully examines the disturbed soil and the blood droplet on the fountain.
+[Memory] Dr. Yuki Tanaka learned: The blood on the fountain is a match for the victim's blood type, suggesting the crime occurred here. (Location: The Hydroponic Conservatory)
+[8.3 completed]
+[02:00] 
+[Time Step: 9 - 02:00 - 02:15]
+[02:00] 
+[9.1, The Grand Rotunda | Suspense: 1.0/10]
+[02:00]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 1.0/10.0 | Urgency: PLANNING | Target: Margaret Ashworth (Elsewhere) | World introduction pacing. Establish social cover, study the layout, do not strike yet.
+[02:00] Dr. Cassius Wren executed SEARCH
+[02:00] Dr. Cassius Wren searched and FOUND A leather-bound guest book with the victim's name crossed out in red ink! (Details: Carefully examining the room for any overlooked clues or items of interest, Dr. Cassius Wren notices the faint scent of ozone and old varnish lingering in the air.)
+[02:00] Dr. Cassius Wren searched and DISCOVERED the hidden item: A single black hair, not matching the victim's, caught in the brass railing!
+[02:00] Dr. Cassius Wren searched and DISCOVERED the hidden item: A concealed stiletto dagger, its blade tucked beneath the leather armchair cushion!
+[9.1 completed]
+[02:00] 
+[9.2, The Observatorium | Suspense: 1.0/10]
+[02:00] Margaret Ashworth executed TALK
+[Memory] Margaret Ashworth learned: Seems increasingly agitated and may be hiding something. (Location: The Observatorium)
+[02:00] Felix Drummond executed TALK
+[Memory] Felix Drummond learned: Seems preoccupied and distant, while Margaret Ashworth's demeanor is guarded and suspicious. (Location: The Observatorium)
+[02:00] Captain Theron Blackwood executed MOVE
+[02:00] Sera Okafor executed TALK
+[Memory] Margaret Ashworth learned: Seems increasingly agitated and may be hiding something. (Location: The Observatorium)
+[Memory] Felix Drummond learned: Seems preoccupied and distant, while Margaret Ashworth's demeanor is guarded and suspicious. (Location: The Observatorium)
+[9.2 completed]
+[02:00] 
+[9.3, The Hydroponic Conservatory | Suspense: 1.0/10]
+[02:00] Dr. Yuki Tanaka executed MOVE
+[9.3 completed]
+[02:15] 
+[Time Step: 10 - 02:15 - 02:30]
+[02:15] 
+[10.1, The Grand Rotunda | Suspense: 1.0/10]
+[02:15]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 1.0/10.0 | Urgency: PLANNING | Target: Margaret Ashworth (Elsewhere) | World introduction pacing. Establish social cover, study the layout, do not strike yet.
+[02:15] Dr. Cassius Wren executed MOVE
+[10.1 completed]
+[02:15] 
+[10.2, The Observatorium | Suspense: 1.0/10]
+[02:15] Sera Okafor executed TALK
+[02:15] Felix Drummond executed TALK
+[02:15] Margaret Ashworth executed TALK
+[02:15] Dr. Yuki Tanaka executed SEARCH
+[02:15] Dr. Yuki Tanaka searched the room. Details: Thoroughly examine the Observatorium for any clues or hidden items.
+[10.2 completed]
+[02:15] 
+[10.3, The Stakeholders' Salon | Suspense: 1.0/10]
+[02:15] Captain Theron Blackwood executed SEARCH
+[02:15] Captain Theron Blackwood searched and FOUND A silk-covered ledger of side-bets among the investors, names half-erased! (Details: Carefully inspect the crystal decanter and the sherry glass for any additional clues.)
+[02:15] Captain Theron Blackwood searched and DISCOVERED the hidden item: A diamond-encrusted cufflink, one of a pair, found beneath a Persian carpet!
+[10.3 completed]
+[02:30] 
+[Time Step: 11 - 02:30 - 02:45]
+[02:30] 
+[11.1, The Observatorium | Suspense: 1.0/10]
+[02:30] Felix Drummond executed MOVE
+[02:30] Sera Okafor executed MOVE
+[02:30] Margaret Ashworth executed TALK
+[02:30] Dr. Yuki Tanaka executed TALK
+[Memory] Dr. Yuki Tanaka learned: Margaret Ashworth's presence here, despite the tension, suggests she may have a vested interest in the station's operations. (Location: The Observatorium)
+[Memory] Dr. Yuki Tanaka learned: Margaret Ashworth's presence here, despite the tension, suggests she may have a vested interest in the station's operations. (Location: The Observatorium)
+[11.1 completed]
+[02:30] 
+[11.2, The Stakeholders' Salon | Suspense: 1.0/10]
+[02:30] Captain Theron Blackwood executed MOVE
+[11.2 completed]
+[02:30] 
+[11.3, The Mining Archive | Suspense: 1.0/10]
+[02:30]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 1.0/10.0 | Urgency: PLANNING | Target: Margaret Ashworth (Elsewhere) | World introduction pacing. Establish social cover, study the layout, do not strike yet.
+[02:30] Dr. Cassius Wren executed SEARCH
+[Memory] Dr. Cassius Wren learned: The filing cabinet drawer has been tampered with, suggesting someone has been searching for something. (Location: The Mining Archive)
+[02:30] Dr. Cassius Wren searched the room. Details: Carefully examining the room for any overlooked clues or items of interest, Dr. Cassius Wren notices the faint scent of ozone and old varnish lingering in the air.
+[Memory] Dr. Cassius Wren learned: The filing cabinet drawer has been tampered with, suggesting someone has been searching for something. (Location: The Mining Archive)
+[11.3 completed]
+[02:45] 
+[Time Step: 12 - 02:45 - 03:00]
+[02:45] 
+[12.1, The Grand Rotunda | Suspense: 1.0/10]
+[02:45] Sera Okafor executed TALK
+[Memory] Sera Okafor learned: Felix Drummond appears nervous and fidgety, which could indicate his involvement in the recent events. (Location: The Grand Rotunda)
+[02:45] Felix Drummond executed TALK
+[Memory] Sera Okafor learned: Felix Drummond appears nervous and fidgety, which could indicate his involvement in the recent events. (Location: The Grand Rotunda)
+[12.1 completed]
+[02:45] 
+[12.2, The Observatorium | Suspense: 1.0/10]
+[02:45] Margaret Ashworth executed TALK
+[Memory] Margaret Ashworth learned: Seems distracted and is handling a torn page of notes, likely related to the nightshade extract. (Location: The Observatorium)
+[02:45] Dr. Yuki Tanaka executed TALK
+[Memory] Margaret Ashworth learned: Seems distracted and is handling a torn page of notes, likely related to the nightshade extract. (Location: The Observatorium)
+[12.2 completed]
+[02:45] 
+[12.3, The Hydroponic Conservatory | Suspense: 1.0/10]
+[02:45] Captain Theron Blackwood executed SEARCH
+[02:45] Captain Theron Blackwood searched the room. Details: Carefully inspect the soil and plants for any signs of tampering or hidden items.
+[12.3 completed]
+[02:45] 
+[12.4, The Mining Archive | Suspense: 1.0/10]
+[02:45]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 1.0/10.0 | Urgency: PLANNING | Target: Margaret Ashworth (Elsewhere) | World introduction pacing. Establish social cover, study the layout, do not strike yet.
+[02:45] Dr. Cassius Wren executed MOVE
+[12.4 completed]
+[03:00] 
+[Time Step: 13 - 03:00 - 03:15]
+[03:00] 
+[13.1, The Grand Rotunda | Suspense: 1.0/10]
+[03:00]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 1.0/10.0 | Urgency: PLANNING | Target: Margaret Ashworth (Elsewhere) | World introduction pacing. Establish social cover, study the layout, do not strike yet.
+[03:00] Dr. Cassius Wren executed SEARCH
+[03:00] Dr. Cassius Wren searched the room. Details: Carefully examining the room for any overlooked clues or items of interest, Dr. Cassius Wren notices the faint scent of ozone and old varnish lingering in the air.
+[03:00] Sera Okafor executed TALK
+[Memory] Sera Okafor learned: Felix Drummond's nervousness and financial concerns might be more intertwined than they appear. (Location: The Grand Rotunda)
+[03:00] Felix Drummond executed TALK
+[Memory] Sera Okafor learned: Felix Drummond's nervousness and financial concerns might be more intertwined than they appear. (Location: The Grand Rotunda)
+[13.1 completed]
+[03:00] 
+[13.2, The Observatorium | Suspense: 1.0/10]
+[03:00] Dr. Yuki Tanaka executed TALK
+[03:00] Margaret Ashworth executed TALK
+[13.2 completed]
+[03:00] 
+[13.3, The Hydroponic Conservatory | Suspense: 1.0/10]
+[03:00] Captain Theron Blackwood executed MOVE
+[13.3 completed]
+[03:15] 
+[Time Step: 14 - 03:15 - 03:30]
+[03:15] 
+[14.1, The Grand Rotunda | Suspense: 1.0/10]
+[03:15]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 1.0/10.0 | Urgency: PLANNING | Target: Margaret Ashworth (Elsewhere) | World introduction pacing. Establish social cover, study the layout, do not strike yet.
+[03:15] Dr. Cassius Wren executed MOVE
+[03:15] Felix Drummond executed MOVE
+[03:15] Sera Okafor executed TALK
+[03:15] Captain Theron Blackwood executed TALK
+[14.1 completed]
+[03:15] 
+[14.2, The Observatorium | Suspense: 1.0/10]
+[03:15] Margaret Ashworth executed TALK
+[03:15] Dr. Yuki Tanaka executed TALK
+[Memory] Dr. Yuki Tanaka learned: Margaret Ashworth seems uneasy and avoids direct eye contact, which could indicate her involvement in the recent events. (Location: The Observatorium)
+[Memory] Dr. Yuki Tanaka learned: Margaret Ashworth seems uneasy and avoids direct eye contact, which could indicate her involvement in the recent events. (Location: The Observatorium)
+[14.2 completed]
+[03:30] 
+[Time Step: 15 - 03:30 - 03:45]
+[03:30] 
+[15.1, The Grand Rotunda | Suspense: 1.0/10]
+[03:30] Sera Okafor executed TALK
+[03:30] Captain Theron Blackwood executed TALK
+[15.1 completed]
+[03:30] 
+[15.2, The Observatorium | Suspense: 5.5/10]
+[03:30]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 5.5/10.0 | Urgency: ESCALATING | Target: Margaret Ashworth (IN ROOM) | Escalating tension. Track down Margaret Ashworth, prepare weapons or covert poison, and isolate them.
+[03:30] Dr. Cassius Wren executed TALK
+[Memory] Dr. Cassius Wren learned: Mentions the recent financial discrepancies and hints at potential embezzlement, subtly planting a seed of suspicion. (Location: The Observatorium)
+[03:30] Felix Drummond executed TALK
+[03:30] Margaret Ashworth executed MOVE
+[03:30] Dr. Yuki Tanaka executed TALK
+[Memory] Dr. Cassius Wren learned: Mentions the recent financial discrepancies and hints at potential embezzlement, subtly planting a seed of suspicion. (Location: The Observatorium)
+[15.2 completed]
+[03:45] 
+[Time Step: 16 - 03:45 - 04:00]
+[Dramaturgic Event] Sudden Disturbance & Dimming Lights - A sudden disturbance and flickering lights plunge the surroundings into darkness and confusion, creating an opportune cover.
+[03:45] 
+[16.1, The Grand Rotunda | Suspense: 2.5/10]
+[03:45] Captain Theron Blackwood executed SEARCH
+[03:45] Captain Theron Blackwood searched the room. Details: Carefully inspect the armchair and surrounding area for any signs of forced entry or additional clues.
+[03:45] Sera Okafor executed TALK
+[16.1 completed]
+[03:45] 
+[16.2, The Observatorium | Suspense: 2.5/10]
+[03:45]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 2.5/10.0 | Urgency: ESCALATING | Target: Margaret Ashworth (Elsewhere) | Escalating tension. Track down Margaret Ashworth, prepare weapons or covert poison, and isolate them.
+[03:45] Dr. Cassius Wren executed ALTER_ENVIRONMENT
+[Memory] Dr. Cassius Wren learned: The sudden disturbance and flickering lights have created an environment of chaos and confusion. (Location: The Observatorium)
+[Memory] Dr. Yuki Tanaka learned: Saw Dr. Cassius Wren tamper with the environment in The Observatorium
+[Memory] Felix Drummond learned: Saw Dr. Cassius Wren tamper with the environment in The Observatorium
+[03:45] Dr. Yuki Tanaka executed MOVE
+[03:45] Felix Drummond executed SEARCH
+[03:45] Felix Drummond searched the room. Details: Felix Drummond thoroughly searches the Observatorium for any additional clues or items that might support his suspicions about the financial reports.
+[Memory] Dr. Cassius Wren learned: The sudden disturbance and flickering lights have created an environment of chaos and confusion. (Location: The Observatorium)
+[16.2 completed]
+[03:45] 
+[16.3, The Stakeholders' Salon | Suspense: 2.5/10]
+[03:45] Margaret Ashworth executed SEARCH
+[03:45] Margaret Ashworth searched the room. Details: Thoroughly examines the Stakeholders' Salon for any overlooked clues or hidden items.
+[16.3 completed]
+[04:00] 
+[Time Step: 17 - 04:00 - 04:15]
+[04:00] 
+[17.1, The Grand Rotunda | Suspense: 1.0/10]
+[04:00] Sera Okafor executed MOVE
+[04:00] Captain Theron Blackwood executed MOVE
+[17.1 completed]
+[04:00] 
+[17.2, The Observatorium | Suspense: 1.0/10]
+[04:00]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 1.0/10.0 | Urgency: ESCALATING | Target: Margaret Ashworth (Elsewhere) | Escalating tension. Track down Margaret Ashworth, prepare weapons or covert poison, and isolate them.
+[04:00] Dr. Cassius Wren executed ALTER_ENVIRONMENT
+[Memory] Dr. Cassius Wren learned: A note has been left for Margaret Ashworth, potentially luring her to the Observatorium. (Location: The Observatorium)
+[04:00] Dr. Cassius Wren altered the environment. Added trace: A note left on the telescope mount, addressed to Margaret Ashworth.
+[04:00] Felix Drummond executed TALK
+[Memory] Felix Drummond learned: Seems distracted and avoids eye contact, which could indicate he is hiding something. (Location: The Observatorium)
+[Memory] Dr. Cassius Wren learned: A note has been left for Margaret Ashworth, potentially luring her to the Observatorium. (Location: The Observatorium)
+[Memory] Felix Drummond learned: Seems distracted and avoids eye contact, which could indicate he is hiding something. (Location: The Observatorium)
+[17.2 completed]
+[04:00] 
+[17.3, The Stakeholders' Salon | Suspense: 1.0/10]
+[04:00] Margaret Ashworth executed MOVE
+[17.3 completed]
+[04:00] 
+[17.4, The Hydroponic Conservatory | Suspense: 1.0/10]
+[04:00] Dr. Yuki Tanaka executed SEARCH
+[Memory] Dr. Yuki Tanaka learned: The disturbed soil and blood droplet on the fountain suggest the crime occurred near the fountain, possibly involving the hydroponic samples. (Location: The Hydroponic Conservatory)
+[04:00] Dr. Yuki Tanaka searched the room. Details: Carefully examines the disturbed soil and the blood droplet on the fountain to gather more evidence.
+[Memory] Dr. Yuki Tanaka learned: The disturbed soil and blood droplet on the fountain suggest the crime occurred near the fountain, possibly involving the hydroponic samples. (Location: The Hydroponic Conservatory)
+[17.4 completed]
+[04:15] 
+[Time Step: 18 - 04:15 - 04:30]
+[04:15] 
+[18.1, The Observatorium | Suspense: 1.0/10]
+[04:15]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 1.0/10.0 | Urgency: ESCALATING | Target: Margaret Ashworth (Elsewhere) | Escalating tension. Track down Margaret Ashworth, prepare weapons or covert poison, and isolate them.
+[04:15] Dr. Cassius Wren executed ALTER_ENVIRONMENT
+[04:15] Dr. Cassius Wren altered the environment. Added trace: A discreet note addressed to Margaret Ashworth: Meet me urgently in The Observatorium regarding a private matter.
+[Memory] Captain Theron Blackwood learned: Saw Dr. Cassius Wren tamper with the environment in The Observatorium
+[Memory] Sera Okafor learned: Saw Dr. Cassius Wren tamper with the environment in The Observatorium
+[04:15] Captain Theron Blackwood executed SEARCH
+[Memory] Captain Theron Blackwood learned: Found a smudge of red Martian dust on the telescope's brass mount, inconsistent with the station's sealed environment. (Location: The Observatorium)
+[04:15] Captain Theron Blackwood searched the room. Details: Carefully inspect the telescope and surrounding area for any signs of tampering or additional clues.
+[04:15] Felix Drummond executed MOVE
+[04:15] Sera Okafor executed TALK
+[Memory] Captain Theron Blackwood learned: Found a smudge of red Martian dust on the telescope's brass mount, inconsistent with the station's sealed environment. (Location: The Observatorium)
+[18.1 completed]
+[04:15] 
+[18.2, The Captain's Study | Suspense: 1.0/10]
+[04:15] Margaret Ashworth executed SEARCH
+[Memory] Margaret Ashworth learned: The locked drawer contains a set of financial ledgers with suspicious entries, possibly related to the recent market fluctuations. (Location: The Captain's Study)
+[04:15] Margaret Ashworth searched the room. Details: Thoroughly examines the Captain's Study for any overlooked clues or hidden items.
+[Memory] Margaret Ashworth learned: The locked drawer contains a set of financial ledgers with suspicious entries, possibly related to the recent market fluctuations. (Location: The Captain's Study)
+[18.2 completed]
+[04:15] 
+[18.3, The Hydroponic Conservatory | Suspense: 1.0/10]
+[04:15] Dr. Yuki Tanaka executed MOVE
+[18.3 completed]
+[04:30] 
+[Time Step: 19 - 04:30 - 04:45]
+[04:30] 
+[19.1, The Grand Rotunda | Suspense: 1.0/10]
+[04:30] Dr. Yuki Tanaka executed SEARCH
+[Memory] Dr. Yuki Tanaka learned: The armchair cushion appears to have been recently disturbed, possibly by someone sitting or hiding beneath it. (Location: The Grand Rotunda)
+[04:30] Dr. Yuki Tanaka searched the room. Details: Carefully examines the armchair and the floor around it for any signs of struggle or additional clues.
+[Memory] Dr. Yuki Tanaka learned: The armchair cushion appears to have been recently disturbed, possibly by someone sitting or hiding beneath it. (Location: The Grand Rotunda)
+[19.1 completed]
+[04:30] 
+[19.2, The Observatorium | Suspense: 1.0/10]
+[04:30]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 1.0/10.0 | Urgency: ESCALATING | Target: Margaret Ashworth (Elsewhere) | Escalating tension. Track down Margaret Ashworth, prepare weapons or covert poison, and isolate them.
+[04:30] Dr. Cassius Wren executed MOVE
+[Memory] Dr. Cassius Wren learned: Noted the tension between Margaret Ashworth and Felix Drummond in The Stakeholders' Salon. (Location: The Observatorium)
+[04:30] Captain Theron Blackwood executed TALK
+[04:30] Sera Okafor executed TALK
+[Memory] Dr. Cassius Wren learned: Noted the tension between Margaret Ashworth and Felix Drummond in The Stakeholders' Salon. (Location: The Observatorium)
+[19.2 completed]
+[04:30] 
+[19.3, The Stakeholders' Salon | Suspense: 1.0/10]
+[04:30] Felix Drummond executed TALK
+[19.3 completed]
+[04:30] 
+[19.4, The Captain's Study | Suspense: 1.0/10]
+[04:30] Margaret Ashworth executed MOVE
+[19.4 completed]
+[04:45] 
+[Time Step: 20 - 04:45 - 05:00]
+[04:45] 
+[20.1, The Grand Rotunda | Suspense: 1.0/10]
+[04:45] Dr. Yuki Tanaka executed TALK
+[04:45] Margaret Ashworth executed SEARCH
+[Memory] Margaret Ashworth learned: Found a single black hair, not matching the victim's, caught in the brass railing. (Location: The Grand Rotunda)
+[04:45] Margaret Ashworth searched the room. Details: Thoroughly examine the Grand Rotunda for any overlooked clues or hidden items.
+[Memory] Margaret Ashworth learned: Found a single black hair, not matching the victim's, caught in the brass railing. (Location: The Grand Rotunda)
+[20.1 completed]
+[04:45] 
+[20.2, The Observatorium | Suspense: 1.0/10]
+[04:45] Captain Theron Blackwood executed SEARCH
+[04:45] Captain Theron Blackwood searched the room. Details: Carefully inspect the telescope and surrounding area for any signs of tampering or additional clues.
+[04:45] Sera Okafor executed TALK
+[20.2 completed]
+[04:45] 
+[20.3, The Stakeholders' Salon | Suspense: 1.0/10]
+[04:45]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 1.0/10.0 | Urgency: ESCALATING | Target: Margaret Ashworth (Elsewhere) | Escalating tension. Track down Margaret Ashworth, prepare weapons or covert poison, and isolate them.
+[04:45] Dr. Cassius Wren executed ALTER_ENVIRONMENT
+[Memory] Dr. Cassius Wren learned: A note has been left for Margaret Ashworth, potentially luring her to the Stakeholders' Salon regarding a private matter. (Location: The Stakeholders' Salon)
+[04:45] Dr. Cassius Wren altered the environment. Added trace: A discreet note addressed to Margaret Ashworth: Meet me urgently in The Stakeholders' Salon regarding a private matter.
+[04:45] Felix Drummond executed TALK
+[Memory] Felix Drummond learned: Has been altering the financial reports to benefit the Ashworth Mining Consortium. (Location: The Stakeholders' Salon)
+[Memory] Dr. Cassius Wren learned: A note has been left for Margaret Ashworth, potentially luring her to the Stakeholders' Salon regarding a private matter. (Location: The Stakeholders' Salon)
+[Memory] Felix Drummond learned: Has been altering the financial reports to benefit the Ashworth Mining Consortium. (Location: The Stakeholders' Salon)
+[20.3 completed]
+[05:00] 
+[Time Step: 21 - 05:00 - 05:15]
+[05:00] 
+[21.1, The Grand Rotunda | Suspense: 1.0/10]
+[05:00] Dr. Yuki Tanaka executed SEARCH
+[05:00] Dr. Yuki Tanaka searched the room. Details: Carefully examines the armchair and the floor around it for any signs of struggle or additional clues.
+[05:00] Margaret Ashworth executed MOVE
+[21.1 completed]
+[05:00] 
+[21.2, The Observatorium | Suspense: 1.0/10]
+[05:00] Sera Okafor executed MOVE
+[05:00] Captain Theron Blackwood executed MOVE
+[21.2 completed]
+[05:00] 
+[21.3, The Stakeholders' Salon | Suspense: 1.0/10]
+[05:00]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 1.0/10.0 | Urgency: ESCALATING | Target: Margaret Ashworth (Elsewhere) | Escalating tension. Track down Margaret Ashworth, prepare weapons or covert poison, and isolate them.
+[05:00] Dr. Cassius Wren executed ALTER_ENVIRONMENT
+[05:00] Dr. Cassius Wren altered the environment. Added trace: A discreet note addressed to Margaret Ashworth: Meet me urgently in The Stakeholders' Salon regarding a private matter.
+[05:00] Felix Drummond executed TALK
+[Memory] Dr. Cassius Wren learned: A discreet note has been left for Margaret Ashworth, potentially luring her to the Stakeholders' Salon regarding a private matter. (Location: The Stakeholders' Salon)
+[21.3 completed]
+[05:15] 
+[Time Step: 22 - 05:15 - 05:30]
+[05:15] 
+[22.1, The Grand Rotunda | Suspense: 1.0/10]
+[05:15] Captain Theron Blackwood executed SEARCH
+[05:15] Captain Theron Blackwood searched the room. Details: Carefully examine the armchair where the victim was found, looking for any signs of struggle or additional clues.
+[05:15] Dr. Yuki Tanaka executed TALK
+[22.1 completed]
+[05:15] 
+[22.2, The Stakeholders' Salon | Suspense: 1.0/10]
+[05:15]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 1.0/10.0 | Urgency: ESCALATING | Target: Margaret Ashworth (Elsewhere) | Escalating tension. Track down Margaret Ashworth, prepare weapons or covert poison, and isolate them.
+[05:15] Dr. Cassius Wren executed ALTER_ENVIRONMENT
+[05:15] Dr. Cassius Wren altered the environment. Added trace: A discreet note addressed to Margaret Ashworth: Meet me urgently in The Stakeholders' Salon regarding a private matter.
+[05:15] Felix Drummond executed MOVE
+[Memory] Felix Drummond learned: Noted the recent alterations in the financial reports and the presence of a private note for Margaret Ashworth. (Location: The Stakeholders' Salon)
+[05:15] Sera Okafor executed TALK
+[Memory] Dr. Cassius Wren learned: A discreet note has been left for Margaret Ashworth, potentially luring her to the Stakeholders' Salon regarding a private matter. (Location: The Stakeholders' Salon)
+[Memory] Felix Drummond learned: Noted the recent alterations in the financial reports and the presence of a private note for Margaret Ashworth. (Location: The Stakeholders' Salon)
+[22.2 completed]
+[05:15] 
+[22.3, The Mining Archive | Suspense: 1.0/10]
+[05:15] Margaret Ashworth executed SEARCH
+[Memory] Margaret Ashworth learned: The rearrangement of documents in the file cabinet drawer suggests deliberate tampering, possibly to hide or mislead. (Location: The Mining Archive)
+[05:15] Margaret Ashworth searched the room. Details: Carefully examines the rearranged contents of the file cabinet drawer, looking for any overlooked documents or clues.
+[Memory] Margaret Ashworth learned: The rearrangement of documents in the file cabinet drawer suggests deliberate tampering, possibly to hide or mislead. (Location: The Mining Archive)
+[22.3 completed]
+[05:30] 
+[Time Step: 23 - 05:30 - 05:45]
+[05:30] 
+[23.1, The Grand Rotunda | Suspense: 1.0/10]
+[05:30] Captain Theron Blackwood executed TALK
+[05:30] Felix Drummond executed TALK
+[05:30] Dr. Yuki Tanaka executed MOVE
+[23.1 completed]
+[05:30] 
+[23.2, The Stakeholders' Salon | Suspense: 1.0/10]
+[05:30]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 1.0/10.0 | Urgency: ESCALATING | Target: Margaret Ashworth (Elsewhere) | Escalating tension. Track down Margaret Ashworth, prepare weapons or covert poison, and isolate them.
+[05:30] Dr. Cassius Wren executed ALTER_ENVIRONMENT
+[05:30] Dr. Cassius Wren altered the environment. Added trace: A discreet note addressed to Margaret Ashworth: Meet me urgently in The Stakeholders' Salon regarding a private matter.
+[05:30] Sera Okafor executed TALK
+[Memory] Dr. Cassius Wren learned: A discreet note has been left for Margaret Ashworth, potentially luring her to the Stakeholders' Salon regarding a private matter. (Location: The Stakeholders' Salon)
+[23.2 completed]
+[05:30] 
+[23.3, The Mining Archive | Suspense: 1.0/10]
+[05:30] Margaret Ashworth executed MOVE
+[Memory] Margaret Ashworth learned: The tension among the crew is palpable, and Margaret Ashworth notices a few crew members whispering and looking around nervously. (Location: The Mining Archive)
+[Memory] Margaret Ashworth learned: The tension among the crew is palpable, and Margaret Ashworth notices a few crew members whispering and looking around nervously. (Location: The Mining Archive)
+[23.3 completed]
+[05:45] 
+[Time Step: 24 - 05:45 - 06:00]
+[05:45] 
+[24.1, The Grand Rotunda | Suspense: 1.0/10]
+[05:45] Felix Drummond executed TALK
+[05:45] Captain Theron Blackwood executed SEARCH
+[05:45] Captain Theron Blackwood searched the room. Details: Carefully examine the armchair and the surrounding area for any signs of struggle or additional clues.
+[24.1 completed]
+[05:45] 
+[24.2, The Stakeholders' Salon | Suspense: 1.0/10]
+[05:45]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 1.0/10.0 | Urgency: ESCALATING | Target: Margaret Ashworth (Elsewhere) | Escalating tension. Track down Margaret Ashworth, prepare weapons or covert poison, and isolate them.
+[05:45] Dr. Cassius Wren executed ALTER_ENVIRONMENT
+[05:45] Dr. Cassius Wren altered the environment. Added trace: A discreet note addressed to Margaret Ashworth: Meet me urgently in The Stakeholders' Salon regarding a private matter.
+[05:45] Sera Okafor executed MOVE
+[Memory] Dr. Cassius Wren learned: A discreet note has been left for Margaret Ashworth, potentially luring her to the Stakeholders' Salon regarding a private matter. (Location: The Stakeholders' Salon)
+[24.2 completed]
+[05:45] 
+[24.3, The Hydroponic Conservatory | Suspense: 1.0/10]
+[05:45] Dr. Yuki Tanaka executed SEARCH
+[05:45] Dr. Yuki Tanaka searched the room. Details: Carefully examine the disturbed soil and the blood droplet on the fountain for any additional clues.
+[05:45] Margaret Ashworth executed TALK
+[24.3 completed]
+[06:00] 
+[Time Step: 25 - 06:00 - 06:15]
+[06:00] 
+[25.1, The Grand Rotunda | Suspense: 1.0/10]
+[06:00] Sera Okafor executed TALK
+[06:00] Felix Drummond executed TALK
+[06:00] Captain Theron Blackwood executed TALK
+[Memory] Captain Theron Blackwood learned: Has been acting unusually nervous since the incident, which could indicate his involvement in the financial discrepancies. (Location: The Grand Rotunda)
+[Memory] Captain Theron Blackwood learned: Has been acting unusually nervous since the incident, which could indicate his involvement in the financial discrepancies. (Location: The Grand Rotunda)
+[25.1 completed]
+[06:00] 
+[25.2, The Stakeholders' Salon | Suspense: 1.0/10]
+[06:00]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 1.0/10.0 | Urgency: ESCALATING | Target: Margaret Ashworth (Elsewhere) | Escalating tension. Track down Margaret Ashworth, prepare weapons or covert poison, and isolate them.
+[06:00] Dr. Cassius Wren executed MOVE
+[25.2 completed]
+[06:00] 
+[25.3, The Hydroponic Conservatory | Suspense: 1.0/10]
+[06:00] Dr. Yuki Tanaka executed TALK
+[06:00] Margaret Ashworth executed SEARCH
+[06:00] Margaret Ashworth searched the room. Details: Carefully examines the disturbed section of engineered soil for any hidden clues or evidence.
+[25.3 completed]
+[06:15] 
+[Time Step: 26 - 06:15 - 06:30]
+[06:15] 
+[26.1, The Grand Rotunda | Suspense: 1.0/10]
+[06:15] Sera Okafor executed TALK
+[06:15] Felix Drummond executed MOVE
+[06:15] Captain Theron Blackwood executed MOVE
+[26.1 completed]
+[06:15] 
+[26.2, The Hydroponic Conservatory | Suspense: 5.5/10]
+[06:15]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 5.5/10.0 | Urgency: ESCALATING | Target: Margaret Ashworth (IN ROOM) | Escalating tension. Track down Margaret Ashworth, prepare weapons or covert poison, and isolate them.
+[06:15] Dr. Cassius Wren executed TALK
+[06:15] Dr. Yuki Tanaka executed SEARCH
+[06:15] Dr. Yuki Tanaka searched the room. Details: Carefully examine the disturbed soil and the blood droplet on the fountain for any additional clues.
+[06:15] Margaret Ashworth executed MOVE
+[26.2 completed]
+[06:30] 
+[Time Step: 27 - 06:30 - 06:45]
+[06:30] 
+[27.1, The Grand Rotunda | Suspense: 1.0/10]
+[06:30] Margaret Ashworth executed MOVE
+[06:30] Sera Okafor executed SEARCH
+[Memory] Sera Okafor learned: The warm wine glass and the black hair caught in the railing could be significant, but no new items are found. (Location: The Grand Rotunda)
+[06:30] Sera Okafor searched the room. Details: Thoroughly examines the Grand Rotunda for any overlooked clues or hidden items.
+[Memory] Sera Okafor learned: The warm wine glass and the black hair caught in the railing could be significant, but no new items are found. (Location: The Grand Rotunda)
+[27.1 completed]
+[06:30] 
+[27.2, The Observatorium | Suspense: 1.0/10]
+[06:30] Captain Theron Blackwood executed SEARCH
+[Memory] Captain Theron Blackwood learned: The smudge of red Martian dust on the telescope mount is consistent with the victim's clothing, suggesting the victim may have tampered with the telescope. (Location: The Observatorium)
+[06:30] Captain Theron Blackwood searched the room. Details: Carefully inspect the telescope and the smudge of red Martian dust on its mount.
+[Memory] Captain Theron Blackwood learned: The smudge of red Martian dust on the telescope mount is consistent with the victim's clothing, suggesting the victim may have tampered with the telescope. (Location: The Observatorium)
+[27.2 completed]
+[06:30] 
+[27.3, The Crew's Mess | Suspense: 1.0/10]
+[06:30] Felix Drummond executed SEARCH
+[Memory] Felix Drummond learned: Noted the grease-stained maintenance log with altered ventilation schedule, which could indicate tampering. (Location: The Crew's Mess)
+[06:30] Felix Drummond searched and FOUND A grease-stained maintenance log with the ventilation schedule altered in pencil! (Details: Thoroughly examines the Crew's Mess for any clues or items that might help uncover the financial discrepancies.)
+[Memory] Felix Drummond learned: Noted the grease-stained maintenance log with altered ventilation schedule, which could indicate tampering. (Location: The Crew's Mess)
+[27.3 completed]
+[06:30] 
+[27.4, The Hydroponic Conservatory | Suspense: 1.0/10]
+[06:30]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 1.0/10.0 | Urgency: ESCALATING | Target: Margaret Ashworth (Elsewhere) | Escalating tension. Track down Margaret Ashworth, prepare weapons or covert poison, and isolate them.
+[06:30] Dr. Cassius Wren executed ALTER_ENVIRONMENT
+[06:30] Dr. Cassius Wren altered the environment. Added trace: A discreet note addressed to Margaret Ashworth: Meet me urgently in The Hydroponic Conservatory regarding a private matter.
+[06:30] Dr. Yuki Tanaka executed MOVE
+[Memory] Dr. Cassius Wren learned: A note has been left for Margaret Ashworth, potentially luring her to the Hydroponic Conservatory regarding a private matter. (Location: The Hydroponic Conservatory)
+[27.4 completed]
+[06:45] 
+[Time Step: 28 - 06:45 - 07:00]
+[06:45] 
+[28.1, The Grand Rotunda | Suspense: 1.0/10]
+[06:45] Sera Okafor executed MOVE
+[28.1 completed]
+[06:45] 
+[28.2, The Observatorium | Suspense: 1.0/10]
+[06:45] Captain Theron Blackwood executed TALK
+[06:45] Dr. Yuki Tanaka executed SEARCH
+[Memory] Dr. Yuki Tanaka learned: The smudge of red Martian dust on the telescope mount is likely a deliberate attempt to mislead investigators. (Location: The Observatorium)
+[06:45] Dr. Yuki Tanaka searched the room. Details: Dr. Yuki Tanaka thoroughly examines the telescope and the smudge of red Martian dust on its mount.
+[Memory] Dr. Yuki Tanaka learned: The smudge of red Martian dust on the telescope mount is likely a deliberate attempt to mislead investigators. (Location: The Observatorium)
+[28.2 completed]
+[06:45] 
+[28.3, The Crew's Mess | Suspense: 1.0/10]
+[06:45] Felix Drummond executed MOVE
+[28.3 completed]
+[06:45] 
+[28.4, The Hydroponic Conservatory | Suspense: 1.0/10]
+[06:45]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 1.0/10.0 | Urgency: ESCALATING | Target: Margaret Ashworth (Elsewhere) | Escalating tension. Track down Margaret Ashworth, prepare weapons or covert poison, and isolate them.
+[06:45] Dr. Cassius Wren executed ALTER_ENVIRONMENT
+[Memory] Dr. Cassius Wren learned: A discreet note has been left for Margaret Ashworth, potentially luring her to the Hydroponic Conservatory regarding a private matter. (Location: The Hydroponic Conservatory)
+[28.4 completed]
+[06:45] 
+[28.5, The Spoke Gallery | Suspense: 1.0/10]
+[06:45] Margaret Ashworth executed SEARCH
+[Memory] Margaret Ashworth learned: The drag mark appears to lead to the outer rim, possibly indicating someone's hurried exit or entry. (Location: The Spoke Gallery)
+[06:45] Margaret Ashworth searched the room. Details: Carefully examines the faint drag mark in the dust along the gallery's full length, looking for any hidden clues or evidence.
+[Memory] Margaret Ashworth learned: The drag mark appears to lead to the outer rim, possibly indicating someone's hurried exit or entry. (Location: The Spoke Gallery)
+[28.5 completed]
+[07:00] 
+[Time Step: 29 - 07:00 - 07:15]
+[07:00] 
+[29.1, The Observatorium | Suspense: 1.0/10]
+[07:00] Captain Theron Blackwood executed SEARCH
+[Memory] Captain Theron Blackwood learned: The smudge of red Martian dust on the telescope mount and the crystal dome appears to be from the same source, possibly the victim's clothing. (Location: The Observatorium)
+[07:00] Captain Theron Blackwood searched the room. Details: Carefully inspect the smudge of red Martian dust on the telescope and the crystal dome for any additional clues.
+[07:00] Felix Drummond executed SEARCH
+[07:00] Felix Drummond searched the room. Details: Carefully examine the room for any overlooked clues or items that might provide insight into the financial discrepancies.
+[07:00] Sera Okafor executed TALK
+[Memory] Sera Okafor learned: Seems unusually nervous, his hands fidgeting with the journal in his lap. (Location: The Observatorium)
+[07:00] Dr. Yuki Tanaka executed TALK
+[Memory] Captain Theron Blackwood learned: The smudge of red Martian dust on the telescope mount and the crystal dome appears to be from the same source, possibly the victim's clothing. (Location: The Observatorium)
+[Memory] Sera Okafor learned: Seems unusually nervous, his hands fidgeting with the journal in his lap. (Location: The Observatorium)
+[29.1 completed]
+[07:00] 
+[29.2, The Hydroponic Conservatory | Suspense: 1.0/10]
+[07:00]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 1.0/10.0 | Urgency: ESCALATING | Target: Margaret Ashworth (Elsewhere) | Escalating tension. Track down Margaret Ashworth, prepare weapons or covert poison, and isolate them.
+[07:00] Dr. Cassius Wren executed ALTER_ENVIRONMENT
+[Memory] Dr. Cassius Wren learned: A discreet note has been left for Margaret Ashworth, potentially luring her to the Hydroponic Conservatory regarding a private matter. (Location: The Hydroponic Conservatory)
+[29.2 completed]
+[07:00] 
+[29.3, The Spoke Gallery | Suspense: 1.0/10]
+[07:00] Margaret Ashworth executed MOVE
+[29.3 completed]
+[07:15] 
+[Time Step: 30 - 07:15 - 07:30]
+[07:15] 
+[30.1, The Observatorium | Suspense: 1.0/10]
+[07:15] Captain Theron Blackwood executed MOVE
+[07:15] Dr. Yuki Tanaka executed SEARCH
+[07:15] Dr. Yuki Tanaka searched the room. Details: Dr. Yuki Tanaka thoroughly examines the telescope and the smudge of red Martian dust on its mount for any additional clues.
+[07:15] Felix Drummond executed TALK
+[07:15] Sera Okafor executed TALK
+[Memory] Sera Okafor learned: 's response is evasive, and he shifts uncomfortably in his seat. (Location: The Observatorium)
+[07:15] Margaret Ashworth executed TALK
+[Memory] Sera Okafor learned: 's response is evasive, and he shifts uncomfortably in his seat. (Location: The Observatorium)
+[30.1 completed]
+[07:15] 
+[30.2, The Hydroponic Conservatory | Suspense: 1.0/10]
+[07:15]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 1.0/10.0 | Urgency: ESCALATING | Target: Margaret Ashworth (Elsewhere) | Escalating tension. Track down Margaret Ashworth, prepare weapons or covert poison, and isolate them.
+[07:15] Dr. Cassius Wren executed ALTER_ENVIRONMENT
+[07:15] Dr. Cassius Wren altered the environment. Added trace: A discreet note addressed to Margaret Ashworth: Meet me urgently in The Hydroponic Conservatory regarding a private matter.
+[Memory] Dr. Cassius Wren learned: A forged note has been left for Margaret Ashworth, potentially luring her to the Hydroponic Conservatory regarding a private matter. (Location: The Hydroponic Conservatory)
+[30.2 completed]
+[07:30] 
+[Time Step: 31 - 07:30 - 07:45]
+[07:30] 
+[31.1, The Observatorium | Suspense: 2.0/10]
+[07:30] Dr. Yuki Tanaka executed MOVE
+[07:30] Sera Okafor executed MOVE
+[07:30] Margaret Ashworth executed TALK
+[07:30] Felix Drummond executed SEARCH
+[07:30] Felix Drummond searched the room. Details: Carefully examines the telescope and the velvet drapes for any overlooked clues or items.
+[31.1 completed]
+[07:30] 
+[31.2, The Stakeholders' Salon | Suspense: 2.0/10]
+[07:30] Captain Theron Blackwood executed SEARCH
+[07:30] Captain Theron Blackwood searched the room. Details: Carefully inspect the crystal decanter of single-malt whisky for any hidden compartments or additional clues.
+[31.2 completed]
+[07:30] 
+[31.3, The Hydroponic Conservatory | Suspense: 2.0/10]
+[07:30]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 2.0/10.0 | Urgency: ESCALATING | Target: Margaret Ashworth (Elsewhere) | Escalating tension. Track down Margaret Ashworth, prepare weapons or covert poison, and isolate them.
+[07:30] Dr. Cassius Wren executed ALTER_ENVIRONMENT
+[Memory] Dr. Cassius Wren learned: A discreet note has been left for Margaret Ashworth, potentially luring her to the Hydroponic Conservatory regarding a private matter. (Location: The Hydroponic Conservatory)
+[31.3 completed]
+[07:45] 
+[Time Step: 32 - 07:45 - 08:00]
+[07:45] 
+[32.1, The Grand Rotunda | Suspense: 2.0/10]
+[07:45] Sera Okafor executed SEARCH
+[Memory] Sera Okafor learned: Notices a faint dusting of powder on the brass railing, possibly from the concealed dagger. (Location: The Grand Rotunda)
+[07:45] Sera Okafor searched the room. Details: Thoroughly examines the Grand Rotunda for any overlooked clues or hidden items.
+[Memory] Sera Okafor learned: Notices a faint dusting of powder on the brass railing, possibly from the concealed dagger. (Location: The Grand Rotunda)
+[32.1 completed]
+[07:45] 
+[32.2, The Observatorium | Suspense: 2.0/10]
+[07:45] Margaret Ashworth executed MOVE
+[07:45] Felix Drummond executed MOVE
+[32.2 completed]
+[07:45] 
+[32.3, The Stakeholders' Salon | Suspense: 2.0/10]
+[07:45] Captain Theron Blackwood executed TALK
+[Memory] Captain Theron Blackwood learned: Inquires about recent financial discrepancies, subtly hinting at potential embezzlement. (Location: The Stakeholders' Salon)
+[Memory] Captain Theron Blackwood learned: Inquires about recent financial discrepancies, subtly hinting at potential embezzlement. (Location: The Stakeholders' Salon)
+[32.3 completed]
+[07:45] 
+[32.4, The Hydroponic Conservatory | Suspense: 2.0/10]
+[07:45]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 2.0/10.0 | Urgency: ESCALATING | Target: Margaret Ashworth (Elsewhere) | Escalating tension. Track down Margaret Ashworth, prepare weapons or covert poison, and isolate them.
+[07:45] Dr. Cassius Wren executed ALTER_ENVIRONMENT
+[07:45] Dr. Yuki Tanaka executed SEARCH
+[07:45] Dr. Yuki Tanaka searched the room. Details: Thoroughly investigate the Hydroponic Conservatory for any hidden items or clues.
+[Memory] Dr. Cassius Wren learned: A discreet note has been left for Margaret Ashworth, potentially luring her to the Hydroponic Conservatory regarding a private matter. (Location: The Hydroponic Conservatory)
+[32.4 completed]
+[08:00] 
+[Time Step: 33 - 08:00 - 08:15]
+[08:00] 
+[33.1, The Grand Rotunda | Suspense: 2.0/10]
+[08:00] Sera Okafor executed MOVE
+[33.1 completed]
+[08:00] 
+[33.2, The Stakeholders' Salon | Suspense: 2.0/10]
+[08:00] Captain Theron Blackwood executed SEARCH
+[08:00] Captain Theron Blackwood searched the room. Details: Carefully inspect the crystal decanter of single-malt whisky for any hidden compartments or additional clues.
+[08:00] Felix Drummond executed TALK
+[33.2 completed]
+[08:00] 
+[33.3, The Hydroponic Conservatory | Suspense: 2.0/10]
+[08:00]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 2.0/10.0 | Urgency: ESCALATING | Target: Margaret Ashworth (Elsewhere) | Escalating tension. Track down Margaret Ashworth, prepare weapons or covert poison, and isolate them.
+[08:00] Dr. Cassius Wren executed ALTER_ENVIRONMENT
+[08:00] Dr. Yuki Tanaka executed TALK
+[Memory] Dr. Cassius Wren learned: A second note has been left for Margaret Ashworth, potentially luring her to the Hydroponic Conservatory regarding a private matter. (Location: The Hydroponic Conservatory)
+[33.3 completed]
+[08:00] 
+[33.4, The Spoke Gallery | Suspense: 2.0/10]
+[08:00] Margaret Ashworth executed MOVE
+[33.4 completed]
+[08:15] 
+[Time Step: 34 - 08:15 - 08:30]
+[08:15] 
+[34.1, The Observatorium | Suspense: 2.0/10]
+[08:15] Sera Okafor executed SEARCH
+[Memory] Sera Okafor learned: Noted the smudge of red Martian dust on the telescope mount, possibly indicating an unauthorized entry or exit. (Location: The Observatorium)
+[08:15] Sera Okafor searched the room. Details: Carefully examines the telescope and the crystal dome for any overlooked clues or hidden items.
+[Memory] Sera Okafor learned: Noted the smudge of red Martian dust on the telescope mount, possibly indicating an unauthorized entry or exit. (Location: The Observatorium)
+[34.1 completed]
+[08:15] 
+[34.2, The Stakeholders' Salon | Suspense: 2.0/10]
+[08:15] Captain Theron Blackwood executed MOVE
+[08:15] Felix Drummond executed SEARCH
+[08:15] Felix Drummond searched the room. Details: Carefully examine the Persian carpets for any overlooked clues or items that might provide insight into the financial discrepancies.
+[34.2 completed]
+[08:15] 
+[34.3, The Hydroponic Conservatory | Suspense: 6.5/10]
+[08:15]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 6.5/10.0 | Urgency: ESCALATING | Target: Margaret Ashworth (IN ROOM) | Escalating tension. Track down Margaret Ashworth, prepare weapons or covert poison, and isolate them.
+[08:15] Dr. Cassius Wren executed MOVE
+[08:15] Dr. Yuki Tanaka executed SEARCH
+[08:15] Dr. Yuki Tanaka searched the room. Details: Dr. Yuki Tanaka carefully examines the disturbed soil and the blood droplet on the fountain, searching for any hidden items or clues.
+[08:15] Margaret Ashworth executed TALK
+[34.3 completed]
+[08:30] 
+[Time Step: 35 - 08:30 - 08:45]
+[08:30] 
+[35.1, The Observatorium | Suspense: 2.0/10]
+[08:30]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 2.0/10.0 | Urgency: ESCALATING | Target: Margaret Ashworth (Elsewhere) | Escalating tension. Track down Margaret Ashworth, prepare weapons or covert poison, and isolate them.
+[08:30] Dr. Cassius Wren executed ALTER_ENVIRONMENT
+[Memory] Dr. Cassius Wren learned: A forged note has been left on the telescope mount, potentially luring Margaret Ashworth to the Observatorium. (Location: The Observatorium)
+[08:30] Dr. Cassius Wren altered the environment. Added trace: A discreet note addressed to Margaret Ashworth: Meet me urgently in The Observatorium regarding a private matter.
+[08:30] Sera Okafor executed MOVE
+[Memory] Dr. Cassius Wren learned: A forged note has been left on the telescope mount, potentially luring Margaret Ashworth to the Observatorium. (Location: The Observatorium)
+[35.1 completed]
+[08:30] 
+[35.2, The Stakeholders' Salon | Suspense: 2.0/10]
+[08:30] Felix Drummond executed MOVE
+[35.2 completed]
+[08:30] 
+[35.3, The Crew's Mess | Suspense: 2.0/10]
+[08:30] Captain Theron Blackwood executed SEARCH
+[08:30] Captain Theron Blackwood searched the room. Details: Carefully examine the walls and machinery in the Crew's Mess for any signs of tampering or hidden compartments.
+[35.3 completed]
+[08:30] 
+[35.4, The Hydroponic Conservatory | Suspense: 2.0/10]
+[08:30] Margaret Ashworth executed MOVE
+[08:30] Dr. Yuki Tanaka executed MOVE
+[35.4 completed]
+[08:45] 
+[Time Step: 36 - 08:45 - 09:00]
+[08:45] 
+[36.1, The Grand Rotunda | Suspense: 2.0/10]
+[08:45] Sera Okafor executed SEARCH
+[Memory] Sera Okafor learned: Finds a small, folded piece of paper tucked beneath the armchair cushion, likely belonging to the deceased. (Location: The Grand Rotunda)
+[08:45] Sera Okafor searched the room. Details: Carefully examines the armchair and the floor around it for any overlooked clues or hidden items.
+[Memory] Sera Okafor learned: Finds a small, folded piece of paper tucked beneath the armchair cushion, likely belonging to the deceased. (Location: The Grand Rotunda)
+[36.1 completed]
+[08:45] 
+[36.2, The Observatorium | Suspense: 2.0/10]
+[08:45]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 2.0/10.0 | Urgency: DESPERATE | Target: Margaret Ashworth (Elsewhere) | Desperate pacing pressure (35% elapsed). Corner target Margaret Ashworth immediately to strike before mystery time expires.
+[08:45] Dr. Cassius Wren executed MOVE
+[08:45] Dr. Yuki Tanaka executed SEARCH
+[08:45] Dr. Yuki Tanaka searched the room. Details: Carefully examines the telescope and the crystal dome for any hidden compartments or clues.
+[36.2 completed]
+[08:45] 
+[36.3, The Crew's Mess | Suspense: 2.0/10]
+[08:45] Captain Theron Blackwood executed MOVE
+[36.3 completed]
+[08:45] 
+[36.4, The Hydroponic Conservatory | Suspense: 2.0/10]
+[08:45] Felix Drummond executed SEARCH
+[08:45] Felix Drummond searched the room. Details: Carefully examine the soil and plants for any signs of tampering or hidden items.
+[36.4 completed]
+[08:45] 
+[36.5, The Mining Archive | Suspense: 2.0/10]
+[08:45] Margaret Ashworth executed SEARCH
+[08:45] Margaret Ashworth searched the room. Details: Carefully examine the rearranged documents in the file cabinet drawer for any additional clues.
+[36.5 completed]
+[09:00] 
+[Time Step: 37 - 09:00 - 09:15]
+[09:00] 
+[37.1, The Grand Rotunda | Suspense: 2.0/10]
+[09:00] Sera Okafor executed MOVE
+[37.1 completed]
+[09:00] 
+[37.2, The Observatorium | Suspense: 2.0/10]
+[09:00] Dr. Yuki Tanaka executed MOVE
+[37.2 completed]
+[09:00] 
+[37.3, The Hydroponic Conservatory | Suspense: 2.0/10]
+[09:00] Felix Drummond executed TALK
+[09:00] Captain Theron Blackwood executed SEARCH
+[09:00] Captain Theron Blackwood searched the room. Details: Carefully examine the soil and plants for any signs of tampering or hidden compartments.
+[37.3 completed]
+[09:00] 
+[37.4, The Mining Archive | Suspense: 10.0/10]
+[09:00]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 10.0/10.0 | Urgency: DESPERATE_STRIKE_WINDOW | Target: Margaret Ashworth (IN ROOM) | CRITICAL STRIKE WINDOW! Target Margaret Ashworth is present. Conditions are optimal (isolated or desperate). Dramaturgist enforces lethal attack now!
+[09:00] Dr. Cassius Wren executed MURDER
+[Memory] Dr. Cassius Wren learned: Margaret Ashworth is dead. (Location: The Mining Archive)
+[09:00] MURDER OCCURRED! Victim: Margaret Ashworth
+[09:00] Notebook dropped at room_6
+[Memory] Dr. Cassius Wren learned: Margaret Ashworth is dead. (Location: The Mining Archive)
+[37.4 completed]
+[09:15] Dr. Cassius Wren DISCOVERED the dead body of Margaret Ashworth!
+[09:15] THE DETECTIVE ARRIVES! Inspector Elara Voss has entered the investigation.
+[09:15] 
+[Time Step: 38 - 09:15 - 09:30]
+[Dramaturgic Event] Alarm: Body Discovered in The Mining Archive! - A chilling cry rings out! The lifeless body of Margaret Ashworth has been discovered in The Mining Archive. The area is sealed and panic surges.
+[09:15] 
+[38.1, The Grand Rotunda | Suspense: 3.5/10]
+[09:15] Inspector Elara Voss executed MOVE
+[38.1 completed]
+[09:15] 
+[38.2, The Stakeholders' Salon | Suspense: 3.5/10]
+[09:15] Sera Okafor executed SEARCH
+[09:15] Sera Okafor searched the room. Details: Thoroughly examine the room for any clues or signs of struggle, focusing on the crystal decanter and the glass of sherry.
+[38.2 completed]
+[09:15] 
+[38.3, The Hydroponic Conservatory | Suspense: 3.5/10]
+[09:15] Dr. Yuki Tanaka executed TALK
+[09:15] Felix Drummond executed TALK
+[09:15] Captain Theron Blackwood executed TALK
+[Memory] Captain Theron Blackwood learned: Margaret Ashworth was last seen in The Hydroponic Conservatory.
+[Memory] Captain Theron Blackwood learned: Margaret Ashworth was last seen in The Hydroponic Conservatory.
+[38.3 completed]
+[09:15] 
+[38.4, The Mining Archive | Suspense: 3.5/10]
+[09:15]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 3.5/10.0 | Urgency: POST_CRIME | Target: Margaret Ashworth (Elsewhere) | Post-crime concealment phase. Blend in with guests, discard weapons, establish alibi, and do not raise suspicion.
+[09:15] Dr. Cassius Wren executed SEARCH
+[Memory] Dr. Cassius Wren learned: The victim's hand is clutching a small brass compass, which may have been a distraction or a tool in the murder. (Location: The Mining Archive)
+[09:15] Dr. Cassius Wren searched and FOUND Notebook of Margaret Ashworth! (Details: Thoroughly examine the area around the body for any signs of struggle or additional clues.)
+[Memory] Dr. Cassius Wren learned: The victim's hand is clutching a small brass compass, which may have been a distraction or a tool in the murder. (Location: The Mining Archive)
+[38.4 completed]
+[09:30] Inspector Elara Voss entered the area and observed the dead body of Margaret Ashworth.
+[09:30] 
+[Time Step: 39 - 09:30 - 09:45]
+[09:30] 
+[39.1, The Stakeholders' Salon | Suspense: 3.5/10]
+[09:30] Sera Okafor executed MOVE
+[Memory] Sera Okafor learned: The area is sealed, and panic is surging among the stakeholders. (Location: The Stakeholders' Salon)
+[Memory] Sera Okafor learned: The area is sealed, and panic is surging among the stakeholders. (Location: The Stakeholders' Salon)
+[39.1 completed]
+[09:30] 
+[39.2, The Hydroponic Conservatory | Suspense: 3.5/10]
+[09:30] Captain Theron Blackwood executed MOVE
+[09:30] Felix Drummond executed MOVE
+[09:30] Dr. Yuki Tanaka executed SEARCH
+[09:30] Dr. Yuki Tanaka searched the room. Details: Thoroughly examines the disturbed soil and the blood droplet on the fountain for any additional clues.
+[39.2 completed]
+[09:30] 
+[39.3, The Mining Archive | Suspense: 10.0/10]
+[09:30]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 10.0/10.0 | Urgency: POST_CRIME | Target: Margaret Ashworth (Elsewhere) | Post-crime concealment phase. Blend in with guests, discard weapons, establish alibi, and do not raise suspicion.
+[09:30] Dr. Cassius Wren executed TALK
+[Memory] Dr. Cassius Wren learned: Felix Drummond seems unusually agitated and is constantly checking his watch. (Location: The Mining Archive)
+[09:30] Inspector Elara Voss executed TALK
+[Memory] Dr. Cassius Wren learned: Felix Drummond seems unusually agitated and is constantly checking his watch. (Location: The Mining Archive)
+[39.3 completed]
+[09:45] Felix Drummond entered the area and observed the dead body of Margaret Ashworth.
+[09:45] Captain Theron Blackwood entered the area and observed the dead body of Margaret Ashworth.
+[09:45] Sera Okafor entered the area and observed the dead body of Margaret Ashworth.
+[09:45] 
+[Time Step: 40 - 09:45 - 10:00]
+[09:45] 
+[40.1, The Hydroponic Conservatory | Suspense: 2.0/10]
+[09:45] Dr. Yuki Tanaka executed MOVE
+[40.1 completed]
+[09:45] 
+[40.2, The Mining Archive | Suspense: 8.5/10]
+[09:45]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 8.5/10.0 | Urgency: POST_CRIME | Target: Margaret Ashworth (Elsewhere) | Post-crime concealment phase. Blend in with guests, discard weapons, establish alibi, and do not raise suspicion.
+[09:45] Dr. Cassius Wren executed MOVE
+[Memory] Dr. Cassius Wren learned: The Observatorium is quiet, with no immediate signs of disturbance. (Location: The Mining Archive)
+[09:45] Captain Theron Blackwood executed TALK
+[09:45] Inspector Elara Voss executed TALK
+[Memory] Inspector Elara Voss learned: Felix Drummond was in the Mining Archive before the alarm. (Location: The Mining Archive)
+[09:45] Sera Okafor executed TALK
+[09:45] Felix Drummond executed TALK
+[Memory] Dr. Cassius Wren learned: The Observatorium is quiet, with no immediate signs of disturbance. (Location: The Mining Archive)
+[Memory] Inspector Elara Voss learned: Felix Drummond was in the Mining Archive before the alarm. (Location: The Mining Archive)
+[40.2 completed]
+[10:00] 
+[Time Step: 41 - 10:00 - 10:15]
+[10:00] 
+[41.1, The Grand Rotunda | Suspense: 2.0/10]
+[10:00] Dr. Yuki Tanaka executed SEARCH
+[Memory] Dr. Yuki Tanaka learned: The brass railings and chandelier do not contain any hidden compartments or clues. (Location: The Grand Rotunda)
+[10:00] Dr. Yuki Tanaka searched the room. Details: Thoroughly examines the brass railings and chandelier for any hidden compartments or clues.
+[Memory] Dr. Yuki Tanaka learned: The brass railings and chandelier do not contain any hidden compartments or clues. (Location: The Grand Rotunda)
+[41.1 completed]
+[10:00] 
+[41.2, The Observatorium | Suspense: 2.0/10]
+[10:00]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 2.0/10.0 | Urgency: POST_CRIME | Target: Margaret Ashworth (Elsewhere) | Post-crime concealment phase. Blend in with guests, discard weapons, establish alibi, and do not raise suspicion.
+[10:00] Dr. Cassius Wren executed SEARCH
+[10:00] Dr. Cassius Wren searched the room. Details: Thoroughly examine the telescope and surrounding area for any signs of struggle or additional clues.
+[41.2 completed]
+[10:00] 
+[41.3, The Mining Archive | Suspense: 2.0/10]
+[10:00] Felix Drummond executed TALK
+[10:00] Sera Okafor executed TALK
+[10:00] Captain Theron Blackwood executed TALK
+[10:00] Inspector Elara Voss executed MOVE
+[41.3 completed]
+[10:15] Inspector Elara Voss told Dr. Yuki Tanaka about the murder!
+[10:15] 
+[Time Step: 42 - 10:15 - 10:30]
+[10:15] 
+[42.1, The Grand Rotunda | Suspense: 2.0/10]
+[10:15] Dr. Yuki Tanaka executed TALK
+[10:15] Inspector Elara Voss executed TALK
+[42.1 completed]
+[10:15] 
+[42.2, The Observatorium | Suspense: 2.0/10]
+[10:15]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 2.0/10.0 | Urgency: POST_CRIME | Target: Margaret Ashworth (Elsewhere) | Post-crime concealment phase. Blend in with guests, discard weapons, establish alibi, and do not raise suspicion.
+[10:15] Dr. Cassius Wren executed MOVE
+[42.2 completed]
+[10:15] 
+[42.3, The Mining Archive | Suspense: 2.0/10]
+[10:15] Sera Okafor executed TALK
+[Memory] Sera Okafor learned: Seems unusually agitated and is frequently glancing towards the broken porthole in The Spoke Gallery. (Location: The Mining Archive)
+[10:15] Captain Theron Blackwood executed TALK
+[10:15] Felix Drummond executed TALK
+[Memory] Sera Okafor learned: Seems unusually agitated and is frequently glancing towards the broken porthole in The Spoke Gallery. (Location: The Mining Archive)
+[42.3 completed]
+[10:30] 
+[Time Step: 43 - 10:30 - 10:45]
+[10:30] 
+[43.1, The Grand Rotunda | Suspense: 2.0/10]
+[10:30] Dr. Yuki Tanaka executed TALK
+[10:30] Inspector Elara Voss executed SEARCH
+[Memory] Inspector Elara Voss learned: The armchair cushion has been recently disturbed, possibly by someone sitting or hiding beneath it. No additional clues are found. (Location: The Grand Rotunda)
+[10:30] Inspector Elara Voss searched the room. Details: Carefully examines the armchair and the area beneath it, looking for any signs of struggle or additional clues.
+[Memory] Inspector Elara Voss learned: The armchair cushion has been recently disturbed, possibly by someone sitting or hiding beneath it. No additional clues are found. (Location: The Grand Rotunda)
+[43.1 completed]
+[10:30] 
+[43.2, The Stakeholders' Salon | Suspense: 2.0/10]
+[10:30]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 2.0/10.0 | Urgency: POST_CRIME | Target: Margaret Ashworth (Elsewhere) | Post-crime concealment phase. Blend in with guests, discard weapons, establish alibi, and do not raise suspicion.
+[10:30] Dr. Cassius Wren executed SEARCH
+[10:30] Dr. Cassius Wren searched the room. Details: Carefully examine the Persian carpet for any hidden items or clues.
+[43.2 completed]
+[10:30] 
+[43.3, The Mining Archive | Suspense: 2.0/10]
+[10:30] Captain Theron Blackwood executed TALK
+[Memory] Captain Theron Blackwood learned: Has been acting suspiciously, and I need to keep an eye on him. (Location: The Mining Archive)
+[10:30] Sera Okafor executed TALK
+[10:30] Felix Drummond executed MOVE
+[Memory] Captain Theron Blackwood learned: Has been acting suspiciously, and I need to keep an eye on him. (Location: The Mining Archive)
+[43.3 completed]
+[10:45] 
+[Time Step: 44 - 10:45 - 11:00]
+[10:45] 
+[44.1, The Grand Rotunda | Suspense: 2.0/10]
+[10:45] Dr. Yuki Tanaka executed TALK
+[10:45] Felix Drummond executed TALK
+[10:45] Inspector Elara Voss executed MOVE
+[44.1 completed]
+[10:45] 
+[44.2, The Stakeholders' Salon | Suspense: 2.0/10]
+[10:45]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 2.0/10.0 | Urgency: POST_CRIME | Target: Margaret Ashworth (Elsewhere) | Post-crime concealment phase. Blend in with guests, discard weapons, establish alibi, and do not raise suspicion.
+[10:45] Dr. Cassius Wren executed MOVE
+[Memory] Dr. Cassius Wren learned: The Grand Rotunda is bustling with activity, and whispers of tension can be heard among the crew members. (Location: The Stakeholders' Salon)
+[Memory] Dr. Cassius Wren learned: The Grand Rotunda is bustling with activity, and whispers of tension can be heard among the crew members. (Location: The Stakeholders' Salon)
+[44.2 completed]
+[10:45] 
+[44.3, The Mining Archive | Suspense: 2.0/10]
+[10:45] Captain Theron Blackwood executed TALK
+[10:45] Sera Okafor executed TALK
+[44.3 completed]
+[11:00] 
+[Time Step: 45 - 11:00 - 11:15]
+[11:00] 
+[45.1, The Grand Rotunda | Suspense: 2.0/10]
+[11:00]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 2.0/10.0 | Urgency: POST_CRIME | Target: Margaret Ashworth (Elsewhere) | Post-crime concealment phase. Blend in with guests, discard weapons, establish alibi, and do not raise suspicion.
+[11:00] Dr. Cassius Wren executed OBSERVE
+[Memory] Dr. Cassius Wren learned: Felix Drummond appears nervous and frequently checks his watch, while Dr. Yuki Tanaka seems preoccupied with her notes. (Location: The Grand Rotunda)
+[11:00] Dr. Cassius Wren observe: Dr. Cassius Wren observes the room, noting the tension among the crew members and the presence of Felix Drummond and Dr. Yuki Tanaka.
+[11:00] Dr. Yuki Tanaka executed MOVE
+[11:00] Felix Drummond executed TALK
+[Memory] Dr. Cassius Wren learned: Felix Drummond appears nervous and frequently checks his watch, while Dr. Yuki Tanaka seems preoccupied with her notes. (Location: The Grand Rotunda)
+[45.1 completed]
+[11:00] 
+[45.2, The Observatorium | Suspense: 2.0/10]
+[11:00] Inspector Elara Voss executed SEARCH
+[11:00] Inspector Elara Voss searched the room. Details: Carefully examines the telescope and the velvet drapes for any overlooked clues.
+[45.2 completed]
+[11:00] 
+[45.3, The Mining Archive | Suspense: 2.0/10]
+[11:00] Sera Okafor executed TALK
+[11:00] Captain Theron Blackwood executed MOVE
+[Memory] Captain Theron Blackwood learned: Noted the smudge of red Martian dust on the telescope mount, consistent with Margaret's clothing. (Location: The Mining Archive)
+[Memory] Captain Theron Blackwood learned: Noted the smudge of red Martian dust on the telescope mount, consistent with Margaret's clothing. (Location: The Mining Archive)
+[45.3 completed]
+[11:15] 
+[Time Step: 46 - 11:15 - 11:30]
+[11:15] 
+[46.1, The Grand Rotunda | Suspense: 2.0/10]
+[11:15]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 2.0/10.0 | Urgency: POST_CRIME | Target: Margaret Ashworth (Elsewhere) | Post-crime concealment phase. Blend in with guests, discard weapons, establish alibi, and do not raise suspicion.
+[11:15] Dr. Cassius Wren executed TALK
+[11:15] Felix Drummond executed TALK
+[46.1 completed]
+[11:15] 
+[46.2, The Observatorium | Suspense: 2.0/10]
+[11:15] Inspector Elara Voss executed TALK
+[11:15] Captain Theron Blackwood executed TALK
+[46.2 completed]
+[11:15] 
+[46.3, The Hydroponic Conservatory | Suspense: 2.0/10]
+[11:15] Dr. Yuki Tanaka executed SEARCH
+[11:15] Dr. Yuki Tanaka searched the room. Details: Carefully examines the disturbed soil and the blood droplet on the fountain, looking for any signs of tampering or additional clues.
+[46.3 completed]
+[11:15] 
+[46.4, The Mining Archive | Suspense: 2.0/10]
+[11:15] Sera Okafor executed SEARCH
+[11:15] Sera Okafor searched the room. Details: Thoroughly examine the filing cabinets and documents for any overlooked clues.
+[46.4 completed]
+[11:30] 
+[Time Step: 47 - 11:30 - 11:45]
+[11:30] 
+[47.1, The Grand Rotunda | Suspense: 2.0/10]
+[11:30]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 2.0/10.0 | Urgency: POST_CRIME | Target: Margaret Ashworth (Elsewhere) | Post-crime concealment phase. Blend in with guests, discard weapons, establish alibi, and do not raise suspicion.
+[11:30] Dr. Cassius Wren executed MOVE
+[11:30] Felix Drummond executed MOVE
+[47.1 completed]
+[11:30] 
+[47.2, The Observatorium | Suspense: 2.0/10]
+[DETECTIVE PATROL]: Detective Inspector Elara Voss has finished inspecting The Observatorium (2 turns). Moving to The Mining Archive to interview suspects!
+[11:30] Inspector Elara Voss executed MOVE
+[11:30] Captain Theron Blackwood executed TALK
+[47.2 completed]
+[11:30] 
+[47.3, The Hydroponic Conservatory | Suspense: 2.0/10]
+[11:30] Dr. Yuki Tanaka executed MOVE
+[47.3 completed]
+[11:30] 
+[47.4, The Mining Archive | Suspense: 2.0/10]
+[11:30] Sera Okafor executed TALK
+[47.4 completed]
+[11:45] 
+[Time Step: 48 - 11:45 - 12:00]
+[11:45] 
+[48.1, The Observatorium | Suspense: 2.0/10]
+[11:45]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 2.0/10.0 | Urgency: POST_CRIME | Target: Margaret Ashworth (Elsewhere) | Post-crime concealment phase. Blend in with guests, discard weapons, establish alibi, and do not raise suspicion.
+[11:45] Dr. Cassius Wren executed OBSERVE
+[Memory] Dr. Cassius Wren learned: Appears agitated, shifting uncomfortably in his chair. (Location: The Observatorium)
+[11:45] Dr. Cassius Wren observe: Dr. Cassius Wren carefully examines the room, noting the tension among the crew members and the presence of Captain Blackwood and Dr. Yuki Tanaka.
+[11:45] Dr. Yuki Tanaka executed SEARCH
+[11:45] Dr. Yuki Tanaka searched the room. Details: Thoroughly examine the crystal dome for any hidden compartments or clues.
+[11:45] Captain Theron Blackwood executed TALK
+[Memory] Dr. Cassius Wren learned: Appears agitated, shifting uncomfortably in his chair. (Location: The Observatorium)
+[48.1 completed]
+[11:45] 
+[48.2, The Mining Archive | Suspense: 2.0/10]
+[11:45] Inspector Elara Voss executed SEARCH
+[11:45] Inspector Elara Voss searched the room. Details: Carefully examines the contents of the steel filing cabinet with the fresh scratch on its lock, looking for any overlooked clues.
+[11:45] Sera Okafor executed TALK
+[11:45] Felix Drummond executed TALK
+[48.2 completed]
+[12:00] 
+[Time Step: 49 - 12:00 - 12:15]
+[12:00] 
+[49.1, The Observatorium | Suspense: 2.0/10]
+[12:00]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 2.0/10.0 | Urgency: POST_CRIME | Target: Margaret Ashworth (Elsewhere) | Post-crime concealment phase. Blend in with guests, discard weapons, establish alibi, and do not raise suspicion.
+[12:00] Dr. Cassius Wren executed TALK
+[12:00] Dr. Yuki Tanaka executed TALK
+[12:00] Captain Theron Blackwood executed MOVE
+[49.1 completed]
+[12:00] 
+[49.2, The Mining Archive | Suspense: 2.0/10]
+[12:00] Inspector Elara Voss executed TALK
+[Memory] Inspector Elara Voss learned: Felix Drummond nervously fidgets with his cufflinks and mentions he was reviewing the ventilation schedule in the archive. (Location: The Mining Archive)
+[12:00] Sera Okafor executed TALK
+[12:00] Felix Drummond executed TALK
+[Memory] Inspector Elara Voss learned: Felix Drummond nervously fidgets with his cufflinks and mentions he was reviewing the ventilation schedule in the archive. (Location: The Mining Archive)
+[49.2 completed]
+[12:15] 
+[Time Step: 50 - 12:15 - 12:30]
+[12:15] 
+[50.1, The Observatorium | Suspense: 2.0/10]
+[12:15]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 2.0/10.0 | Urgency: POST_CRIME | Target: Margaret Ashworth (Elsewhere) | Post-crime concealment phase. Blend in with guests, discard weapons, establish alibi, and do not raise suspicion.
+[12:15] Dr. Cassius Wren executed OBSERVE
+[Memory] Dr. Cassius Wren learned: And Dr. Yuki Tanaka appear to be in a tense conversation, with Dr. Yuki Tanaka looking anxious. (Location: The Observatorium)
+[12:15] Dr. Cassius Wren observe: Carefully examining the room for any signs of disturbance or clues, noting the presence of Captain Blackwood and Dr. Yuki Tanaka.
+[12:15] Dr. Yuki Tanaka executed SEARCH
+[12:15] Dr. Yuki Tanaka searched the room. Details: Carefully examines the crystal dome and velvet drapes for any hidden compartments or clues.
+[Memory] Dr. Cassius Wren learned: And Dr. Yuki Tanaka appear to be in a tense conversation, with Dr. Yuki Tanaka looking anxious. (Location: The Observatorium)
+[50.1 completed]
+[12:15] 
+[50.2, The Stakeholders' Salon | Suspense: 2.0/10]
+[12:15] Captain Theron Blackwood executed SEARCH
+[12:15] Captain Theron Blackwood searched the room. Details: Thoroughly examine the crystal decanter and the glass of sherry for any additional clues.
+[50.2 completed]
+[12:15] 
+[50.3, The Mining Archive | Suspense: 2.0/10]
+[12:15] Felix Drummond executed TALK
+[12:15] Sera Okafor executed TALK
+[12:15] Inspector Elara Voss executed MOVE
+[50.3 completed]
+[12:30] 
+[Time Step: 51 - 12:30 - 12:45]
+[12:30] 
+[51.1, The Grand Rotunda | Suspense: 2.0/10]
+[12:30] Inspector Elara Voss executed SEARCH
+[Memory] Inspector Elara Voss learned: The armchair cushion has a hidden compartment containing a small, leather-bound journal. (Location: The Grand Rotunda)
+[12:30] Inspector Elara Voss searched the room. Details: Carefully examines the armchair and the area around it for any overlooked clues.
+[Memory] Inspector Elara Voss learned: The armchair cushion has a hidden compartment containing a small, leather-bound journal. (Location: The Grand Rotunda)
+[51.1 completed]
+[12:30] 
+[51.2, The Observatorium | Suspense: 2.0/10]
+[12:30]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 2.0/10.0 | Urgency: POST_CRIME | Target: Margaret Ashworth (Elsewhere) | Post-crime concealment phase. Blend in with guests, discard weapons, establish alibi, and do not raise suspicion.
+[12:30] Dr. Cassius Wren executed MOVE
+[12:30] Dr. Yuki Tanaka executed MOVE
+[51.2 completed]
+[12:30] 
+[51.3, The Stakeholders' Salon | Suspense: 2.0/10]
+[12:30] Captain Theron Blackwood executed MOVE
+[51.3 completed]
+[12:30] 
+[51.4, The Mining Archive | Suspense: 2.0/10]
+[12:30] Sera Okafor executed TALK
+[12:30] Felix Drummond executed TALK
+[51.4 completed]
+[12:45] 
+[Time Step: 52 - 12:45 - 13:00]
+[12:45] 
+[52.1, The Grand Rotunda | Suspense: 9.5/10]
+[12:45]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 9.5/10.0 | Urgency: POST_CRIME | Target: Margaret Ashworth (Elsewhere) | Post-crime concealment phase. Blend in with guests, discard weapons, establish alibi, and do not raise suspicion.
+[12:45] Dr. Cassius Wren executed OBSERVE
+[Memory] Dr. Cassius Wren learned: Inspector Elara Voss is actively investigating the scene, likely gathering evidence and interviewing witnesses. (Location: The Grand Rotunda)
+[12:45] Dr. Cassius Wren observe: Dr. Cassius Wren carefully observes the room, noting the tension among the crew members and the presence of Inspector Elara Voss.
+[12:45] Inspector Elara Voss executed MOVE
+[Memory] Dr. Cassius Wren learned: Inspector Elara Voss is actively investigating the scene, likely gathering evidence and interviewing witnesses. (Location: The Grand Rotunda)
+[52.1 completed]
+[12:45] 
+[52.2, The Crew's Mess | Suspense: 2.0/10]
+[12:45] Captain Theron Blackwood executed SEARCH
+[12:45] Captain Theron Blackwood searched the room. Details: Thoroughly examine the walls and tables for any overlooked clues.
+[52.2 completed]
+[12:45] 
+[52.3, The Hydroponic Conservatory | Suspense: 2.0/10]
+[12:45] Dr. Yuki Tanaka executed SEARCH
+[12:45] Dr. Yuki Tanaka searched the room. Details: Carefully examine the soil trays and plants for any signs of disturbance or hidden compartments.
+[52.3 completed]
+[12:45] 
+[52.4, The Mining Archive | Suspense: 2.0/10]
+[12:45] Felix Drummond executed TALK
+[12:45] Sera Okafor executed TALK
+[52.4 completed]
+[13:00] 
+[Time Step: 53 - 13:00 - 13:15]
+[13:00] 
+[53.1, The Grand Rotunda | Suspense: 2.0/10]
+[13:00]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 2.0/10.0 | Urgency: POST_CRIME | Target: Margaret Ashworth (Elsewhere) | Post-crime concealment phase. Blend in with guests, discard weapons, establish alibi, and do not raise suspicion.
+[13:00] Dr. Cassius Wren executed MOVE
+[53.1 completed]
+[13:00] 
+[53.2, The Observatorium | Suspense: 2.0/10]
+[13:00] Inspector Elara Voss executed SEARCH
+[13:00] Inspector Elara Voss searched the room. Details: Carefully inspect the entire Observatorium for any overlooked clues or items.
+[53.2 completed]
+[13:00] 
+[53.3, The Crew's Mess | Suspense: 2.0/10]
+[13:00] Captain Theron Blackwood executed MOVE
+[53.3 completed]
+[13:00] 
+[53.4, The Hydroponic Conservatory | Suspense: 2.0/10]
+[13:00] Dr. Yuki Tanaka executed MOVE
+[53.4 completed]
+[13:00] 
+[53.5, The Mining Archive | Suspense: 2.0/10]
+[13:00] Sera Okafor executed TALK
+[13:00] Felix Drummond executed MOVE
+[53.5 completed]
+[13:15] 
+[Time Step: 54 - 13:15 - 13:30]
+[13:15] 
+[54.1, The Observatorium | Suspense: 8.5/10]
+[13:15]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 8.5/10.0 | Urgency: POST_CRIME | Target: Margaret Ashworth (Elsewhere) | Post-crime concealment phase. Blend in with guests, discard weapons, establish alibi, and do not raise suspicion.
+[13:15] Dr. Cassius Wren executed OBSERVE
+[13:15] Dr. Cassius Wren observe: Carefully examining the room for any signs of disturbance or clues, noting the presence of Inspector Elara Voss and the tension among the crew members.
+[13:15] Felix Drummond executed TALK
+[13:15] Captain Theron Blackwood executed TALK
+[Memory] Captain Theron Blackwood learned: Has been acting unusually nervous and fidgety since the incident. (Location: The Observatorium)
+[13:15] Inspector Elara Voss executed TALK
+[13:15] Dr. Yuki Tanaka executed TALK
+[Memory] Dr. Cassius Wren learned: Inspector Voss is actively investigating the scene, likely gathering evidence and interviewing witnesses. (Location: The Observatorium)
+[Memory] Captain Theron Blackwood learned: Has been acting unusually nervous and fidgety since the incident. (Location: The Observatorium)
+[54.1 completed]
+[13:15] 
+[54.2, The Mining Archive | Suspense: 2.0/10]
+[13:15] Sera Okafor executed SEARCH
+[13:15] Sera Okafor searched the room. Details: Thoroughly examine the filing cabinets and documents for any overlooked clues.
+[54.2 completed]
+[13:30] 
+[Time Step: 55 - 13:30 - 13:45]
+[13:30] 
+[55.1, The Observatorium | Suspense: 8.5/10]
+[13:30]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 8.5/10.0 | Urgency: POST_CRIME | Target: Margaret Ashworth (Elsewhere) | Post-crime concealment phase. Blend in with guests, discard weapons, establish alibi, and do not raise suspicion.
+[13:30] Dr. Cassius Wren executed TALK
+[Memory] Dr. Cassius Wren learned: Discussed the recent financial discrepancies and their potential impact on the station's operations. (Location: The Observatorium)
+[13:30] Felix Drummond executed TALK
+[13:30] Captain Theron Blackwood executed TALK
+[13:30] Dr. Yuki Tanaka executed TALK
+[DETECTIVE PATROL]: Detective Inspector Elara Voss has finished inspecting The Observatorium (2 turns). Moving to The Mining Archive to interview suspects!
+[13:30] Inspector Elara Voss executed MOVE
+[Memory] Dr. Cassius Wren learned: Discussed the recent financial discrepancies and their potential impact on the station's operations. (Location: The Observatorium)
+[55.1 completed]
+[13:30] 
+[55.2, The Mining Archive | Suspense: 2.0/10]
+[13:30] Sera Okafor executed TALK
+[55.2 completed]
+[13:45] 
+[Time Step: 56 - 13:45 - 14:00]
+[13:45] 
+[56.1, The Observatorium | Suspense: 2.0/10]
+[13:45]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 2.0/10.0 | Urgency: POST_CRIME | Target: Margaret Ashworth (Elsewhere) | Post-crime concealment phase. Blend in with guests, discard weapons, establish alibi, and do not raise suspicion.
+[13:45] Dr. Cassius Wren executed OBSERVE
+[Memory] Dr. Cassius Wren learned: Felix Drummond appears increasingly agitated and is frequently glancing towards the door, possibly preparing to leave. (Location: The Observatorium)
+[13:45] Dr. Cassius Wren observe: Carefully observing the room for any signs of disturbance or additional clues, focusing on the behavior of the other characters.
+[13:45] Felix Drummond executed TALK
+[13:45] Dr. Yuki Tanaka executed TALK
+[13:45] Captain Theron Blackwood executed TALK
+[Memory] Dr. Cassius Wren learned: Felix Drummond appears increasingly agitated and is frequently glancing towards the door, possibly preparing to leave. (Location: The Observatorium)
+[56.1 completed]
+[13:45] 
+[56.2, The Mining Archive | Suspense: 2.0/10]
+[13:45] Sera Okafor executed TALK
+[13:45] Inspector Elara Voss executed SEARCH
+[Memory] Inspector Elara Voss learned: The iron sample is out of sequence and appears to have been tampered with. The rearrangement of documents in the file cabinet drawer suggests a deliberate attempt to mislead investigators. (Location: The Mining Archive)
+[13:45] Inspector Elara Voss searched the room. Details: Carefully examine the rearranged contents of the file cabinet drawer and the oxidised iron sample pinned to the display board.
+[Memory] Inspector Elara Voss learned: The iron sample is out of sequence and appears to have been tampered with. The rearrangement of documents in the file cabinet drawer suggests a deliberate attempt to mislead investigators. (Location: The Mining Archive)
+[56.2 completed]
+[14:00] 
+[Time Step: 57 - 14:00 - 14:15]
+[14:00] 
+[57.1, The Observatorium | Suspense: 2.0/10]
+[14:00]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 2.0/10.0 | Urgency: POST_CRIME | Target: Margaret Ashworth (Elsewhere) | Post-crime concealment phase. Blend in with guests, discard weapons, establish alibi, and do not raise suspicion.
+[14:00] Dr. Cassius Wren executed MOVE
+[14:00] Dr. Yuki Tanaka executed TALK
+[Memory] Dr. Yuki Tanaka learned: Seems preoccupied and avoids direct eye contact, which could indicate his involvement in the recent events. (Location: The Observatorium)
+[14:00] Felix Drummond executed TALK
+[14:00] Captain Theron Blackwood executed MOVE
+[Memory] Dr. Yuki Tanaka learned: Seems preoccupied and avoids direct eye contact, which could indicate his involvement in the recent events. (Location: The Observatorium)
+[57.1 completed]
+[14:00] 
+[57.2, The Mining Archive | Suspense: 2.0/10]
+[14:00] Sera Okafor executed TALK
+[14:00] Inspector Elara Voss executed TALK
+[57.2 completed]
+[14:15] 
+[Time Step: 58 - 14:15 - 14:30]
+[14:15] 
+[58.1, The Grand Rotunda | Suspense: 2.0/10]
+[14:15]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 2.0/10.0 | Urgency: POST_CRIME | Target: Margaret Ashworth (Elsewhere) | Post-crime concealment phase. Blend in with guests, discard weapons, establish alibi, and do not raise suspicion.
+[14:15] Dr. Cassius Wren executed OBSERVE
+[Memory] Dr. Cassius Wren learned: The tension in the room is palpable, with whispers and nervous glances among the crew members. (Location: The Grand Rotunda)
+[14:15] Dr. Cassius Wren observe: Carefully examines the Grand Rotunda for any signs of disturbance or additional clues, focusing on the behavior of the other characters and the ambient atmosphere.
+[Memory] Dr. Cassius Wren learned: The tension in the room is palpable, with whispers and nervous glances among the crew members. (Location: The Grand Rotunda)
+[58.1 completed]
+[14:15] 
+[58.2, The Observatorium | Suspense: 2.0/10]
+[14:15] Dr. Yuki Tanaka executed MOVE
+[Memory] Dr. Yuki Tanaka learned: Noted the recent disturbance in the soil near the hydroponic samples, possibly related to the nightshade extract. (Location: The Observatorium)
+[14:15] Felix Drummond executed MOVE
+[Memory] Dr. Yuki Tanaka learned: Noted the recent disturbance in the soil near the hydroponic samples, possibly related to the nightshade extract. (Location: The Observatorium)
+[58.2 completed]
+[14:15] 
+[58.3, The Stakeholders' Salon | Suspense: 2.0/10]
+[14:15] Captain Theron Blackwood executed SEARCH
+[14:15] Captain Theron Blackwood searched the room. Details: Thoroughly examine the Stakeholders' Salon for any overlooked clues or hidden items.
+[58.3 completed]
+[14:15] 
+[58.4, The Mining Archive | Suspense: 2.0/10]
+[14:15] Inspector Elara Voss executed MOVE
+[14:15] Sera Okafor executed SEARCH
+[14:15] Sera Okafor searched the room. Details: Thoroughly examine the filing cabinets and documents for any overlooked clues.
+[58.4 completed]
+[14:30] 
+[Time Step: 59 - 14:30 - 14:45]
+[14:30] 
+[59.1, The Grand Rotunda | Suspense: 9.5/10]
+[14:30]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 9.5/10.0 | Urgency: POST_CRIME | Target: Margaret Ashworth (Elsewhere) | Post-crime concealment phase. Blend in with guests, discard weapons, establish alibi, and do not raise suspicion.
+[14:30] Dr. Cassius Wren executed TALK
+[14:30] Felix Drummond executed TALK
+[14:30] Inspector Elara Voss executed SEARCH
+[14:30] Inspector Elara Voss searched the room. Details: Carefully inspect the armchair cushion and the surrounding area for any additional clues.
+[59.1 completed]
+[14:30] 
+[59.2, The Stakeholders' Salon | Suspense: 2.0/10]
+[14:30] Captain Theron Blackwood executed MOVE
+[59.2 completed]
+[14:30] 
+[59.3, The Hydroponic Conservatory | Suspense: 2.0/10]
+[14:30] Dr. Yuki Tanaka executed SEARCH
+[Memory] Dr. Yuki Tanaka learned: The disturbed soil near the hydroponic samples shows signs of recent digging, possibly to hide something. (Location: The Hydroponic Conservatory)
+[14:30] Dr. Yuki Tanaka searched the room. Details: Carefully inspect the disturbed soil and the blood droplet on the fountain.
+[Memory] Dr. Yuki Tanaka learned: The disturbed soil near the hydroponic samples shows signs of recent digging, possibly to hide something. (Location: The Hydroponic Conservatory)
+[59.3 completed]
+[14:30] 
+[59.4, The Mining Archive | Suspense: 2.0/10]
+[14:30] Sera Okafor executed MOVE
+[59.4 completed]
+[14:45] 
+[Time Step: 60 - 14:45 - 15:00]
+[14:45] 
+[60.1, The Grand Rotunda | Suspense: 8.5/10]
+[14:45]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 8.5/10.0 | Urgency: POST_CRIME | Target: Margaret Ashworth (Elsewhere) | Post-crime concealment phase. Blend in with guests, discard weapons, establish alibi, and do not raise suspicion.
+[14:45] Dr. Cassius Wren executed TALK
+[14:45] Inspector Elara Voss executed TALK
+[14:45] Felix Drummond executed TALK
+[14:45] Sera Okafor executed TALK
+[60.1 completed]
+[14:45] 
+[60.2, The Crew's Mess | Suspense: 2.0/10]
+[14:45] Captain Theron Blackwood executed SEARCH
+[14:45] Captain Theron Blackwood searched the room. Details: Thoroughly examine the Crew's Mess for any overlooked clues or hidden items.
+[60.2 completed]
+[14:45] 
+[60.3, The Hydroponic Conservatory | Suspense: 2.0/10]
+[14:45] Dr. Yuki Tanaka executed MOVE
+[60.3 completed]
+[15:00] 
+[Time Step: 61 - 15:00 - 15:15]
+[15:00] 
+[61.1, The Grand Rotunda | Suspense: 8.5/10]
+[15:00]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 8.5/10.0 | Urgency: POST_CRIME | Target: Margaret Ashworth (Elsewhere) | Post-crime concealment phase. Blend in with guests, discard weapons, establish alibi, and do not raise suspicion.
+[15:00] Dr. Cassius Wren executed TALK
+[15:00] Inspector Elara Voss executed MOVE
+[15:00] Felix Drummond executed TALK
+[15:00] Sera Okafor executed TALK
+[Memory] Dr. Cassius Wren learned: Felix Drummond seems increasingly agitated and is frequently glancing towards the door, possibly preparing to leave. (Location: The Grand Rotunda)
+[61.1 completed]
+[15:00] 
+[61.2, The Observatorium | Suspense: 2.0/10]
+[15:00] Dr. Yuki Tanaka executed TALK
+[61.2 completed]
+[15:00] 
+[61.3, The Crew's Mess | Suspense: 2.0/10]
+[15:00] Captain Theron Blackwood executed MOVE
+[61.3 completed]
+[15:15] 
+[Time Step: 62 - 15:15 - 15:30]
+[15:15] 
+[62.1, The Grand Rotunda | Suspense: 2.0/10]
+[15:15]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 2.0/10.0 | Urgency: POST_CRIME | Target: Margaret Ashworth (Elsewhere) | Post-crime concealment phase. Blend in with guests, discard weapons, establish alibi, and do not raise suspicion.
+[15:15] Dr. Cassius Wren executed MOVE
+[15:15] Felix Drummond executed MOVE
+[15:15] Sera Okafor executed SEARCH
+[15:15] Sera Okafor searched the room. Details: Carefully examine the armchair and the surrounding area for any overlooked clues.
+[62.1 completed]
+[15:15] 
+[62.2, The Observatorium | Suspense: 2.0/10]
+[15:15] Dr. Yuki Tanaka executed TALK
+[15:15] Captain Theron Blackwood executed TALK
+[15:15] Inspector Elara Voss executed SEARCH
+[15:15] Inspector Elara Voss searched the room. Details: Carefully inspect the telescope and surrounding area for any additional clues.
+[62.2 completed]
+[15:30] 
+[Time Step: 63 - 15:30 - 15:45]
+[15:30] 
+[63.1, The Grand Rotunda | Suspense: 2.0/10]
+[15:30] Sera Okafor executed MOVE
+[63.1 completed]
+[15:30] 
+[63.2, The Observatorium | Suspense: 2.0/10]
+[15:30] Dr. Yuki Tanaka executed MOVE
+[15:30] Captain Theron Blackwood executed TALK
+[15:30] Inspector Elara Voss executed TALK
+[Memory] Inspector Elara Voss learned: And Sera Okafor appear nervous and avoid eye contact, suggesting they may be hiding something. (Location: The Observatorium)
+[Memory] Inspector Elara Voss learned: And Sera Okafor appear nervous and avoid eye contact, suggesting they may be hiding something. (Location: The Observatorium)
+[63.2 completed]
+[15:30] 
+[63.3, The Stakeholders' Salon | Suspense: 2.0/10]
+[15:30]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 2.0/10.0 | Urgency: POST_CRIME | Target: Margaret Ashworth (Elsewhere) | Post-crime concealment phase. Blend in with guests, discard weapons, establish alibi, and do not raise suspicion.
+[15:30] Dr. Cassius Wren executed TALK
+[15:30] Felix Drummond executed TALK
+[63.3 completed]
+[15:45] 
+[Time Step: 64 - 15:45 - 16:00]
+[15:45] 
+[64.1, The Grand Rotunda | Suspense: 2.0/10]
+[15:45] Dr. Yuki Tanaka executed SEARCH
+[15:45] Dr. Yuki Tanaka searched the room. Details: Carefully examine the armchair and the area beneath it for any hidden compartments or signs of recent activity.
+[64.1 completed]
+[15:45] 
+[64.2, The Observatorium | Suspense: 2.0/10]
+[15:45] Inspector Elara Voss executed MOVE
+[15:45] Sera Okafor executed SEARCH
+[15:45] Sera Okafor searched the room. Details: Carefully examine the telescope and the drapes for any overlooked clues.
+[15:45] Captain Theron Blackwood executed TALK
+[64.2 completed]
+[15:45] 
+[64.3, The Stakeholders' Salon | Suspense: 2.0/10]
+[15:45]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 2.0/10.0 | Urgency: POST_CRIME | Target: Margaret Ashworth (Elsewhere) | Post-crime concealment phase. Blend in with guests, discard weapons, establish alibi, and do not raise suspicion.
+[15:45] Dr. Cassius Wren executed OBSERVE
+[Memory] Dr. Cassius Wren learned: Felix Drummond's nervousness and frequent glances towards the door are noteworthy. (Location: The Stakeholders' Salon)
+[15:45] Dr. Cassius Wren observe: Dr. Cassius Wren carefully observes the interactions between the stakeholders, noting the tension and the nervous glances. He pays particular attention to Felix Drummond, who seems increasingly agitated.
+[15:45] Felix Drummond executed TALK
+[Memory] Felix Drummond learned: Discussed recent financial discrepancies and Margaret Ashworth's private note, noting Wren's nervousness and evasive answers. (Location: The Stakeholders' Salon)
+[Memory] Dr. Cassius Wren learned: Felix Drummond's nervousness and frequent glances towards the door are noteworthy. (Location: The Stakeholders' Salon)
+[Memory] Felix Drummond learned: Discussed recent financial discrepancies and Margaret Ashworth's private note, noting Wren's nervousness and evasive answers. (Location: The Stakeholders' Salon)
+[64.3 completed]
+[16:00] 
+[Time Step: 65 - 16:00 - 16:15]
+[16:00] 
+[65.1, The Grand Rotunda | Suspense: 2.0/10]
+[16:00] Inspector Elara Voss executed SEARCH
+[16:00] Inspector Elara Voss searched the room. Details: Carefully inspect the armchair and surrounding area for any additional clues.
+[16:00] Dr. Yuki Tanaka executed TALK
+[65.1 completed]
+[16:00] 
+[65.2, The Observatorium | Suspense: 2.0/10]
+[16:00] Captain Theron Blackwood executed TALK
+[16:00] Sera Okafor executed TALK
+[65.2 completed]
+[16:00] 
+[65.3, The Stakeholders' Salon | Suspense: 2.0/10]
+[16:00]   >>> [MURDERER PRESSURE] Killer: Dr. Cassius Wren | Suspense: 2.0/10.0 | Urgency: POST_CRIME | Target: Margaret Ashworth (Elsewhere) | Post-crime concealment phase. Blend in with guests, discard weapons, establish alibi, and do not raise suspicion.
+[16:00] Dr. Cassius Wren executed TALK
+[16:00] Felix Drummond executed TALK
+[65.3 completed]
+[16:15] ACCUSATION! Inspector Elara Voss has assembled the crucial clues (20 facts) and solves the case!
+[16:15] Simulation Complete.
